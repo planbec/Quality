@@ -5,9 +5,9 @@
 			<div class="logo-header">
 				<h1 class="logo">
 					<a href="index.php">
-						<img src="img/logo_m10.png" alt="Medical 10 - Centro Integral de Salud"  title="Medical 10 - Centro Integral de Salud" width="240"></h1>
+						<img src="img/logo_quality.png" alt="Quality of Care - Calidad de Vida"  title="Quality of Care - Calidad de Vida" width="240"></h1>
 					</a>
-				<h2 class="slogan">Medical 10 - Centro Integral de Salud</h2>
+				<h2 class="slogan">Quality of Care - Calidad de Vida</h2>
 			</div>
 
 			
@@ -16,17 +16,15 @@
 			<!-- Main-menu -->
 			<nav id="main-menu" role="navigation" class="closed">
 			<div class="redes">
-				<span><a href="https://www.facebook.com/Centro-Integral-de-Salud-Medical-10-249062688788647/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></span>
-				<span><a href="https://www.twitter.com/cismedical10" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></span>
-				<span><a href="https://www.instagram.com/cismedical10" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></span>
+				<span><a href="index.php" <?php if($uri == 'index') echo 'class="active"'?> ><i class="fa fa-home" aria-hidden="true"></i></a></span>
+				<span><a href="contactos.php" <?php if($uri == 'contactos') echo 'class="active"'?> ><i class="fa fa-envelope" aria-hidden="true"></i></a></span>
 			</div>
 
 				<ul>
-					<li><a href="index.php" <?php if($uri == 'index') echo 'class="active"'?> >Inicio</a></li>
 					<li><a href="quienessomos.php" <?php if($uri == 'quienessomos') echo 'class="active"'?> >Quienes somos</a></li>
-					<li><a href="horarios-especialidades.php" <?php if($uri == 'horarios-especialidades') echo 'class="active"'?> >Horarios y especialidades</a></li>
-					<!--li><a href="ubicacion.php" <?php if($uri == 'ubicacion') echo 'class="active"'?> >Ubicaci&oacute;n</a></li-->
-					<li><a href="contactos.php" <?php if($uri == 'contactos') echo 'class="active"'?> >Contactos</a></li>
+					<li><a href="#" <?php if($uri == 'staff') echo 'class="active"'?> >Staff M&eacute;dico</a></li>
+					<li><a href="#" <?php if($uri == 'tratamientos') echo 'class="active"'?> >Tratamientos para el C&aacute;ncer</a></li-->
+					<li><a href="#" <?php if($uri == 'convenios') echo 'class="active"'?> >Convenios con Asegurados</a></li>
 				</ul>
 			</nav>
 		</div>

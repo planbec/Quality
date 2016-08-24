@@ -10,7 +10,7 @@ $uri = (empty($uri)) ? 'index' : $uri;
 <html lang="es">
 <head>
 	<meta charset="utf-8">
-	<title>Medical 10 | Centro Integral de Salud</title>
+	<title>Quality of Care | Calidad de Vida</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 	<meta name="author" content="Carlos Zambrano M. - PlanB.ec | Francisco Aguilera G. - http://franciscoamk.com">
 	
@@ -20,7 +20,7 @@ $uri = (empty($uri)) ? 'index' : $uri;
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 
 	<link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>	
-	<link href='https://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,800,700' rel='stylesheet' type='text/css'>
 	
 	<!--link rel="stylesheet" href="font-awesome/css/font-awesome.min.css"-->

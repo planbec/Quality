@@ -43,18 +43,20 @@
 
 #main-header { 
 	display:table; 
+	background: #fcfcfc;
+	box-shadow: 0px 2px 3px #999;
 	position:fixed; 
 	top:0; 
 	width: 100%; 
 	z-index: 3000; 
-	.header-cont { background:#e6e6e6 url(../img/bk_serv.png) bottom center repeat-x; border:1px solid #FFF; box-sizing:border-box; box-shadow: 0px 2px 3px #999; margin:auto; max-width: 75rem; padding: 0 1rem; 
+	.header-cont { border-bottom:1px solid #FFF; box-sizing:border-box; margin:auto; max-width: 75rem; padding: 0 1rem; 
 		.redes {
 			/*float: right;*/
 			span { display: inline-block; margin: 0.5rem 1rem 0 0;
 				a {
-					color:#FFF; display:block;padding: 0.5rem; background: #9fb9be; border-radius: 50%; width: 2.3rem; height: 2.3rem; text-align: center;
-					i { font-size: 1.4rem;}
-				&:hover { background: #6a8d93;}
+					color:$color-ver; display:block; border-radius:50%; padding: 0.5rem; width:2.5rem; height:2.5rem; text-align: center;
+					i { font-size: 1.6rem;}
+				&:hover { background:$color-iconos; color:$color-bla; }
 				}
 			}
 		}
@@ -62,9 +64,9 @@
 }
 
 
-#content-area { clear:both; /*margin-top:5rem;*/ 
+#content-area { clear:both; margin-top:8rem; 
 	.bg-cont {
-	    background:#efeded url(../img/bk_m10.png) top center repeat-x;
+	    /*background:#efeded url(../img/bk_m10.png) top center repeat-x;*/
 	}
 
 }
@@ -73,7 +75,7 @@
 
 
 #main-header .menu-trigger{ display:none }
-.logo-header{ display:table-cell; /*width:27%;*/ padding:1rem 0;
+.logo-header{ display:table-cell; width:25%; padding:1rem 0 0;
 	.logo {margin:0;display:block; line-height:1.2em;
 		img { width: 100%; }
 	 }
@@ -86,24 +88,25 @@
 
 /* Menu */
 #main-menu {display:table-cell; width:70%; text-align:right; vertical-align:top; line-height:1.3em;
-	ul {margin:0.5rem 0 0 0; padding:0;list-style:none;background:0;
-		li{ display:inline-block; font: 600 0.9rem 'Open Sans', Arial; text-transform: uppercase;
+	ul {margin:1rem 0 0 0; padding:0;list-style:none;background:0;
+		li{ display:inline-block; font: 400 1.05rem 'Roboto Condensed', Arial; text-transform: uppercase;
 			.featured a {/*background:#50c5ab;*/color:$color-prim; 
-				&:hover{background:#329780;
+				&:hover{background:$color-ver; color:$color-bla;
 				}
 			}
 		}
-		li a { color:#000;  padding:.5em 1em; margin: 0 0.5rem; background:transparent; display:block;
-			&:hover, &.active { /*background:#383636;*/ color:$color-prim; border-top:4px solid $color-prim; text-decoration:none;
+		li a { color:$color-prim;  padding:.5em; margin: 0 0.5rem; background:transparent; display:block;
+			&:hover, &.active { /*background:#383636;*/ background:$color-ver; color:$color-bla; text-decoration:none;
 			}
 		}
 	}
 }
 
-#main-footer{border-top:solid .4rem #8498a0; clear: both;}
+#main-footer{clear: both;}
 
 .footer-call-to-action{
-	text-align:center; background:#56727e; color:#fff; padding:1.5rem 0.5rem 0; overflow: hidden;
+	text-align:center; background:#0f4857; border-bottom:solid .4rem #537a85;  color:#fff; padding:1.5rem 0.5rem 0; overflow: hidden;
+	h3 { color: #71959f; }
 	.col3 {border-left: 1px solid #768d97;
 			&:nth-child(3n) {
 			    margin-right: 0;
@@ -145,13 +148,13 @@
 		text-align: center;
 		z-index: 80;
 		p {
-			color:#3e4b5c; font:italic 600 1.7rem/2.2rem 'Open Sans', Arial; margin-bottom: 3rem; text-shadow: 1px 2px 2px rgba(255,255,255,.6);
-			strong { color: #4d6f75; font-size:2.2rem; font-weight: 100; text-transform: uppercase;}
+			color:#FFF; font:2rem/2.2rem 'Georgia', Times; margin-bottom: 4rem; text-shadow: 1px 2px 2px rgba(0, 0, 0, .3);
+			span { display: block; font-size:2.2rem; font-weight: 100; text-transform: uppercase;}
 		}
 	}
 }
 
-.slides img { text-align: center;}
+.slides img { text-align: center; width: 100%;}
 
 .intro_inf { display: none;}
 
@@ -173,7 +176,7 @@
 }
 
 
-.testimonio{ padding:0; text-align:center; box-shadow: 2px -14px 22px -13px #333 inset; }
+.testimonio{ padding:0; text-align:center; }
 /*.testimonio::before{content:"\201C";display:block;text-align:center;font-size:5em;font-family:Georgia,'Times new roman',serif;opacity:.3;line-height:1em;margin-bottom:-.5em}*/
 .testimonio blockquote{color:#fff}
 .testimonio cite{max-width:22rem;margin:0 auto;display:block;text-align:left;font-size:.75em;line-height:1.3em;font-style:normal;}
@@ -278,7 +281,7 @@ input[type="submit"],input[type="button"]{background:#e99935;border:0;color:#fff
 
 .servicio-resumen { 
     text-align: center;
-    border-right: 1px dashed #ddd;
+    border-right: 1px solid #8acf54;
     padding-right: 1rem;
     margin-bottom: 0 !important;
     margin-right: 1rem !important;
@@ -295,13 +298,14 @@ input[type="submit"],input[type="button"]{background:#e99935;border:0;color:#fff
 
 
 #servicios-home{
-	background:#f5f5f5 url(../img/bk_serv.png) top center repeat-x;
-	border: 2px solid #FFF;
+	background:$color-ver;
+	border: 1px solid rgba(255, 255, 255, 0.5);
+	border-radius: 0.3rem;
 	padding: 1em 0;
     z-index: 2000;
     margin-top: -30px;
     position: relative;
-    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.2);
     h2 {
     	font:bold 0.9rem 'Open Sans',sans-serif; color: #a0b7bc; text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.8);
     }
