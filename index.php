@@ -8,6 +8,7 @@
 	<!-- Flexslider -->
 	<aside id="testimonios-area">
 		<?php include("flexslider.php"); ?>
+		<?php include("citas.php"); ?>
 	</aside>
 
 	<div class="bg-cont">		
@@ -15,7 +16,7 @@
 			<?php include("servicios-home.php"); ?>
 
 		<!-- Servicios -->	
-			<?php include("cont-home.php"); ?>
+			<?php include("convenios.php"); ?>
 
 	<div>
 	</main>

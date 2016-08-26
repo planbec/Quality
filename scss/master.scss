@@ -39,6 +39,7 @@
  }
 
 
+
 .container{ width:100%;max-width:75rem;margin-left:auto;margin-right:auto}
 
 #main-header { 
@@ -56,7 +57,7 @@
 				a {
 					color:$color-ver; display:block; border-radius:50%; padding: 0.5rem; width:2.5rem; height:2.5rem; text-align: center;
 					i { font-size: 1.6rem;}
-				&:hover { background:$color-iconos; color:$color-bla; }
+				&:hover { background:$color-ver; color:$color-bla; }
 				}
 			}
 		}
@@ -105,9 +106,9 @@
 #main-footer{clear: both;}
 
 .footer-call-to-action{
-	text-align:center; background:#0f4857; border-bottom:solid .4rem #537a85;  color:#fff; padding:1.5rem 0.5rem 0; overflow: hidden;
-	h3 { color: #71959f; }
-	.col3 {border-left: 1px solid #768d97;
+	text-align:center; background:#0f4857; border-bottom:solid .4rem #537a85;  color:#eee; margin-top:2rem; padding:1.5rem 0.5rem 0; overflow: hidden;
+	h3 { color: #71959f; font:400 1.3rem 'Roboto Condensed', Arial; margin-bottom: 0.5rem; text-transform: uppercase;}
+	.col3 {border-left: 1px solid #235d6c; padding-left: 1.5rem; margin-bottom: 1rem;
 			&:nth-child(3n) {
 			    margin-right: 0;
 			    padding-left: 3%;
@@ -117,10 +118,17 @@
 
 
 	.contact { text-align:left; margin:auto; max-width:75rem; overflow: hidden; line-height: 1.5rem;
-		li {
-			list-style: none; 
-			&:before { content: "- "}
-			a { color: $color-bla; font-size: 0.8rem; text-transform: uppercase; margin-bottom: 0.5rem; }
+		a { color: $color-bla; font-size: 0.8rem; text-transform: uppercase; margin-bottom: 0.5rem; 
+			&:hover {color: $color-ver;}
+		}
+		ul { margin-left: 0; padding-left: 0; margin-bottom: 0.5rem; 
+			li {
+				list-style: none; 
+				&:before { content: "- "}
+				a { color: $color-bla; font-size: 0.8rem; text-transform: uppercase; margin-bottom: 0.5rem; 
+					&:hover {color: $color-ver;}
+				}
+			}
 		}
 	}
 }
@@ -140,15 +148,16 @@
 .flexslider {
 	position: relative;
 	.intro { 
-		padding: 0.5rem; 
+		background: rgba(0,0,0,0.3);
+		padding: 0.7rem 1.5rem; 
 		width:25%;
 		position: absolute;
-		left: 62%;
-		bottom: 20%;
+		left: 12%;
+		bottom: 18%;
 		text-align: center;
 		z-index: 80;
 		p {
-			color:#FFF; font:2.2rem/2.5rem 'Georgia', Times; margin-bottom: 4rem; text-shadow: 1px 2px 2px rgba(0, 0, 0, .3);
+			color:#FFF; font:2.2rem/2.5rem 'Georgia', Times; text-shadow: 1px 2px 2px rgba(0, 0, 0, .3);
 			span { display: block; font-size:2.5rem; font-weight: 100; text-transform: uppercase;}
 		}
 	}
@@ -161,7 +170,25 @@
 .container-live {overflow: hidden; line-height: 0; border-bottom:1px solid #999; }
 
 
-#testimonios-area{background:$color-back; color:#fff;/*padding:4em 0 4em 0;*/position:relative}
+/* Citas */
+aside.citas {
+    position: absolute;
+    top: 0rem;
+    width: 320px;
+    right: 12%;
+    z-index: 2500;
+    form { background: rgba(15,72,87,0.7); border-radius:0.5rem; box-shadow: 0px 0px 2px 0px rgba(255,255,255,0.3); 
+    	h2 { margin: 0.5rem 0; color:#FFF; text-shadow: none;}
+   		input,select { color:#333; padding: 0.5rem; border-radius: .3rem; width: 100%; 
+   			&.btn-form { background:$color-ver !important; color:#FFF; width:40%; 
+				&:hover { background:$color-amar !important; }
+   			}
+   		}
+    }
+}
+
+
+#testimonios-area{/*background:$color-back;*/ color:#fff;/*padding:4em 0 4em 0;*/position:relative}
 #testimonios-area .container{padding:0 6em}
 #testimonios-area .flex-direction-nav {margin:0;padding:0;list-style:none;background:0;position:absolute;top:45%;width:100%;left:0;height:2rem}
 #testimonios-area .flex-direction-nav li { list-style: none; }
@@ -291,9 +318,10 @@ input[type="submit"],input[type="button"]{background:#e99935;border:0;color:#fff
 	.icono { color:#6a8d93; display:inline-block; font-size: 4rem; float: left; padding: 0 1rem; vertical-align: top; width: 30%; 
 		a { color: $color-back;}
 	}
-	.text { display:inline-block; float: left; padding: 0 1rem; vertical-align: top; width: 70%; }
-	h2 { color:$color-titulos; font:normal 1.4rem 'Open Sans',sans-serif; margin:1rem 0; }
-	p {margin-top: 0.5rem;}
+	img { border:1px solid #8acf54;}
+	.text { color:#FFF; padding: 0 1rem; vertical-align: top; text-align: left; width:100%; }
+	h2 { color:$color-titulos; font:normal 1.4rem 'Open Sans',sans-serif; margin:0.8rem 0; }
+	p {margin: 0.3rem 0 1rem 0; line-height: 1.3rem; text-rendering: optimizeLegibility; letter-spacing: 0.01rem; }
 	&:last-child {border-right:none;}
 }
 
@@ -308,21 +336,17 @@ input[type="submit"],input[type="button"]{background:#e99935;border:0;color:#fff
     position: relative;
     box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.2);
     h2 {
-    	font:bold 0.9rem 'Open Sans',sans-serif; color: #a0b7bc; text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.8);
+    	font:1.4rem 'Roboto Condensed',sans-serif; color: #cef8ac; margin:0.5rem 0 0.3rem; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
     }
     .text a { 
-    	display: block;
-    padding: 0.2rem 1.2rem;
-    text-align: center;
-    text-transform: uppercase;
-    background: #9fb9be;
-    border-radius: 0.5rem;
-    color: #FFF;
-    font-size: 0.75rem;
-    width: 90%;
-    margin: auto;
-	    &:hover { background: #227acb; }
-	}
+	    color:#fff186 !important;
+	    display: block;
+	    padding: 0;
+	    text-align: left;
+	    color: #FFF;
+	    font-size: 0.9rem;
+		    &:hover { text-decoration: underline; }
+		}
 }
 
 figure.icono-servicio { 	
@@ -381,7 +405,12 @@ figure.icono-servicio {
 
 
 section {
-	&#widget-home { margin-top:3.5rem; 
+	&#widget-home { margin-top:2.5rem; 
+		ul.logos { margin: 0; padding: 0; overflow: hidden;
+			li { float: left; list-style: none; padding:0; opacity: 0.5; width: 12.5%;
+				&:hover {opacity:1;}
+			}
+		}
 		h3 { margin-bottom:0; clear: both; width: 90%; }
 		p {clear: both; padding: 1rem 0.5rem; margin-bottom: 1px; }
 		img { border: 2px solid #FFF; margin-top:0.5rem; width: 100%;  }
@@ -449,8 +478,7 @@ figure {text-align: center;}
 		margin-right:0;
 		width:96%
 	}
-
-	.servicio-resumen.col3 { width: 25% !important }
+	section#widget-home ul.logos li { width: 32%; }
 }
 
 /* Media Query 480px */
@@ -458,6 +486,7 @@ figure {text-align: center;}
 	#testimonios-area .container{ padding:0 2em}
 	.testimonio cite{text-align:center}
 	.testimonio cite img{float:none;margin:0 auto}
+
 }
 
 
@@ -470,7 +499,6 @@ figure {text-align: center;}
 		.icono {display:block; text-align:center; width:100% }
 		.text {display:block; width:100% }
 	}
-	.servicio-resumen { border:none; padding: 0 0.5rem; }
 
 	.intro_inf { padding: 1rem;
 		p { font: 1.5rem/1.8rem Dosis,Arial; margin-bottom:1rem;  }
@@ -500,11 +528,14 @@ figure {text-align: center;}
 	.logo-header {padding: 0.2rem !important; }
 
 	.page-header { padding-top:5rem !important;}
+	#content-area { margin-top: 5.5rem; }
+
 }
 
 /* Media Query 720px */
 @media only screen and (max-width: 45rem){
 	#testimonios-area .container{ padding:0 3em}
+	.container { width: 96% important;}
 }
 
 
@@ -513,6 +544,8 @@ figure {text-align: center;}
 	#hero{ padding-right:0 }
 	#hero .dispositivos{background:0;position:static;width:100%;height:auto }
 	#hero .dispositivos img{display:block;margin:0 auto 1em auto }
+
+	section#widget-home ul.logos li { width: 25%; }
 
 }
 
@@ -560,7 +593,6 @@ figure {text-align: center;}
 	}
 
 	.btn { font-size: 0.9rem; padding: 0.8rem 1.2rem; }
-	.servicio-resumen .text { display: none;}
 	#widget-home article.col3, .footer-call-to-action .col3 { width:96% !important; }
 	.footer-call-to-action .col3:first-child, .footer-call-to-action .col3 { border:0; border-bottom: 1px solid #768d97; }
 	.footer-call-to-action .col3:last-child { border:0; }
@@ -597,10 +629,16 @@ figure {text-align: center;}
 	#hero .dispositivos{width:40% }
 	#widget-home aside.col3 { width: 96%; }
 	#widget-home article.col3 { width: 46% ;}
-	.cols .col3, .cols .col4 { box-sizing: border-box; float:left; width:28%; margin:0 2% 2rem; }
+	.cols .col3, .cols .col4 { box-sizing: border-box; float:left; width:100%; margin:0 2% 2rem; }
 	section#widget-home h3 {
 		width: 90%;
 	}
+
+	aside.citas { position: inherit; margin: auto; right:0; width:96%; }
+	.servicio-resumen { margin-bottom:1rem !important; }
+	.servicio-resumen img { float: left; margin-right:0.5rem; width: 38%; }
+	.servicio-resumen p { float: left; width: 60%; }
+	#servicios-home .text a { display: none;}
 
 }
 
@@ -613,7 +651,9 @@ figure {text-align: center;}
 	.flexslider .intro,#footer-menu {display: none;}
 	.servicio-resumen { border:none; }
 
-	.intro_inf { display: block; }
+	.intro_inf { display: none; }
+
+	#servicios-home { margin-top:1rem; width: 96%; }
 }
 
 

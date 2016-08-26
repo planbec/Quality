@@ -4,50 +4,41 @@
 			<div class="cols cf">
 				
 				<article class="servicio-resumen col3">
-					<div class="icono">
-							<a href="#"><i class="fa fa-user-md" aria-hidden="true"></i></a>
+					<div>
+						<a href="#"><img src="img/tn_cirujia.png"></a>
 					</div><!-- /.icono -->
 					
 					<div class="text">
-						<h2>Quienes somos</h2>
-						<a href="quienessomos.php">Entrar</a>
+						<h2>Tratamiento Cirug&iacute;a</h2>
+						<p>Ofrecemos la mayor probabilidad de curar muchos tipos de c&aacute;ncer y prevenci&oacute;n de su propagaci&oacute;n...</p>
+						<a href="#">Ver m&aacute;s</a>
 					</div><!-- /.text -->
 				</article><!-- /.servicio-resumen -->
 				
 				
 				<article class="servicio-resumen col3">
-					<div class="icono">
-							<a href="#"><i class="fa fa-medkit" aria-hidden="true"></i></a>
+					<div>
+						<a href="#"><img src="img/tn_quimio.png"></a>
 					</div><!-- /.icono -->
 					
 					<div class="text">
-						<h2>Especialidades</h2>
-						<a href="horarios-especialidades.php">Entrar</a>
+						<h2>Tratamiento Quimioter&aacute;pia</h2>
+						<p>Conozca sobre el uso de f&aacute;rmacos para destruir las c&eacute;lulas cancerosas...</p>
+						<a href="#">Ver m&aacute;s</a>
 					</div><!-- /.text -->
 				</article><!-- /.servicio-resumen -->
 
 
-				<!--article class="servicio-resumen col4">
-					<div class="icono">
-							<a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i></a>
-					</div>
-					
-					<div class="text">
-						<h2>Ubicaci&oacute;n</h2>
-						<a href="#">Entrar</a>
-					</div>
-				</article -->
-
-
 
 				<article class="servicio-resumen col3">
-					<div class="icono">
-							<a href="contactos.php"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+					<div>
+						<a href="#"><img src="img/tn_radiologia.png"></a>
 					</div><!-- /.icono -->
 					
 					<div class="text">
-						<h2>Cont&aacute;ctenos</h2>
-						<a href="contactos.php">Entrar</a>
+						<h2>Tratamiento Radioter&aacute;pia</h2>
+						<p>Tratamiento oncol&oacute;gico basado en radiaciones para eliminar las c&eacute;lulas tumorales...</p>
+						<a href="#">Ver m&aacute;s</a>
 					</div><!-- /.text -->
 				</article><!-- /.servicio-resumen -->
 				

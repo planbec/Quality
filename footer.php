@@ -5,37 +5,32 @@
 			
 			<div class="contact cols">
 				<div class="col3">
-					<figure><img src="img/logo_ft_m10.png"></figure>
-				</div>
-
-				<div class="col3">
+					<h3>Nuestro Staff</h3>
 					<ul>
-						<li><a href="index.php" <?php if($uri == 'index') echo 'class="active"'?> >Inicio</a></li>
-						<li><a href="quienessomos.php" <?php if($uri == 'quienessomos') echo 'class="active"'?> >Quienes somos</a></li>
-						<li><a href="horarios-especialidades.php" <?php if($uri == 'horarios-especialidades') echo 'class="active"'?> >Horarios y especialidades</a></li>
-						<!-- li><a href="ubicacion.php" <?php if($uri == 'ubicacion') echo 'class="active"'?> >Ubicaci&oacute;n</a></li -->
-						<li><a href="contactos.php" <?php if($uri == 'contactos') echo 'class="active"'?> >Contactos</a></li>
+						<li><a href="#" <?php if($uri == 'staff') echo 'class="active"'?> >DR. MAURICIO RIOFRIO RIOFRIO</a></li>
+						<li><a href="#" <?php if($uri == 'staff') echo 'class="active"'?> >DR. CARLOS FREIRE ALPRECHE</a></li>
+						<li><a href="#" <?php if($uri == 'staff') echo 'class="active"'?> >LIC. M&Oacute;NICA JARR&Iacute;N &Aacute;LVAREZ</a></li>
+						<li><a href="#" <?php if($uri == 'staff') echo 'class="active"'?> >DRA. ERICKA JUDITH SERRANO BUENO</a></li>
 					</ul>
 				</div>
 
 				<div class="col3">
-						Dirección: Ciudadela Vernaza Norte Mz 17 V 23 Avenida Hermano Miguel.<br>
-						Telfs.: (593 4) 292 4874 <br>
-						Cel: 0980042103 - 0981600116<br>
-						E-mail: info@cismedical10.com<br>
+					<h3>Tratamientos</h3>
+					<ul>
+						<li><a href="#" <?php if($uri == 'cirugia') echo 'class="active"'?> >Cirug&iacute;a</a></li>
+						<li><a href="#" <?php if($uri == 'quimioterapia') echo 'class="active"'?> >Quimioterapia</a></li>
+						<li><a href="#" <?php if($uri == 'radioterapia') echo 'class="active"'?> >Radioterapia</a></li>
+					</ul>
+				</div>
+
+				<div class="col3">
+						Direcci&oacute;n: Centro empresarial Ciudad Col&oacute;n, <br>
+						Edf. Empresarial 1, 2do piso Of 208<br>
+						Telfs.: 0996179227 - 0996171061<br>
+						E-mail: <a href="mailto:info@qualityofcare.com.ec">info@qualityofcare.com.ec</a><br>
 						Guayaquil - Ecuador <br>
 				</div>
 				
-
-				<!-- Footer-menu -->
-				<!--nav id="footer-menu">
-					<ul>
-						<li><a href="index.php" <?php if($uri == 'index') echo 'class="active"'?> >Inicio</a></li>
-						<li><a href="quienessomos.php" <?php if($uri == 'quienessomos') echo 'class="active"'?> >Quienes somos</a></li>
-						<li><a href="productos.php" <?php if($uri == 'productos') echo 'class="active"'?> >Productos</a></li>
-						<li><a href="contactos.php" <?php if($uri == 'contactos') echo 'class="active"'?> >Contactos</a></li>
-					</ul>
-				</nav -->
 
 			</div>
 			
@@ -45,7 +40,7 @@
 			
 			<!-- Copyright -->
 			<div class="copyright">
-				&copy; 2016 Medical10  -  Todos los derechos reservados. 
+				&copy; 2016 Quality of Care | Calidad de Vida  -  Todos los derechos reservados. 
 			</div>
 
 			<div class="planb">

@@ -27,9 +27,11 @@ h1 {
 }
 
 h2 {
-  font-size: 1.3em;
   text-transform: uppercase;
-  color: #50c5ab; 
+  font:1.7rem 'Roboto Condensed',sans-serif; 
+  color: $color-ver; 
+  margin:0.5rem 0 1rem; 
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
 }
 
 h3 {

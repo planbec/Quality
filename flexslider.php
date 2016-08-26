@@ -1,7 +1,7 @@
 		<div class="flexslider">
 
 			<div class="intro">
-				<p>Te brindamos nuevas<span>oportunidades</span><span>de vida</span></p>
+				<p>Te brindamos nuevas<span>oportunidades de vida</span></p>
 			</div>
 
 
@@ -21,8 +21,7 @@
 		</div>
 
 		<div class="intro_inf">
-			<p>El &uacute;nico compromiso es que <strong>su salud</strong> sea siempre nuestra <strong>prioridad</strong>.</p>
-			<a href="quienessomos.php" class="btn">Con&oacute;zcanos</a>
+			<p>Te brindamos nuevas<span>oportunidades de vida</span></p>
 		</div>
 
 		<!-- /.flexslider -->
