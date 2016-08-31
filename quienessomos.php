@@ -11,24 +11,19 @@
 			
 			<header class="page-header">
 				<div class="container">		
-
-					
-				
+					<h1>Quienes somos</h1>					
 				</div>
 			</header><!-- /.page-header -->
 			
 			
 			<div class="container page-content">
 
-				<h1><i class="fa fa-user-md" aria-hidden="true"></i>&nbsp; Quienes somos</h1>
-
-
 			<div class="especialidades">
 				<section class="detalle-servicio">
 					<div class="text">
 						
 						<h2>Misi&oacute;n</h2>
-						<p>CENTRO INTEGRAL DE SALUD MEDICAL10 es una Empresa Privada del Área Médica dedicada a la prestación de Servicios de Salud y que responde a las necesidades de nuestros pacientes con el propósito de dar atención esmerada con calidad, calidez, eficiencia y eficacia.</p>
+						<p>Proporcionar una atención &oacute;nptima a los pacientes atendidos de forma ambulatoria, satisfaciendo sus necesidades y expectativas mediante la prestaci&oacute;nn de atenci&oacute;nn m&eacute;ndica y cuidados de enfermer&iacute;na especializados.</p>
 					</div><!-- /.text -->
 				</section><!-- /.detalle-servicio -->
 
@@ -37,34 +32,17 @@
 					<div class="text">
 						
 						<h2>Visi&oacute;n</h2>
-						<p>Convertir al CENTRO INTEGRAL DE SALUD MEDICAL10 en una de las Instituciones Médicas más importantes del Ecuador, conservando una óptima situación de Salud y excelencia en el Servicio de nuestros pacientes, con rapidez de respuesta y creando nuevos e innovadores sistemas de detección de Enfermedades.</p>
+						<p>Ofrecer cuidados integrales centrados en las personas, con un servicio de calidad cubriendo sus necesidades y expectativas.</p>
 					</div><!-- /.text -->
 				</section><!-- /.detalle-servicio -->
 
-
-				<section class="detalle-servicio">
-					<div class="text">
-						
-						<h2>Valores</h2>
-						<p>Nuestros valores se constituyen en los cimientos de una cultura en Salud que es compartida por todos los Profesionales de la Medicina con visión:</p>
-						<ul>
-							<li>INTEGRIDAD</li>
-							<li>PROFESIONALISMO</li>
-							<li>ORIENTACIÓN A UN BUEN DIAGNOSTICO</li>
-							<li>PROACTIVIDAD</li>
-							<li>TRABAJO EN EQUIPO</li>
-							<li>PRODUCTIVIDAD</li>
-							<li>CALIDAD,CALIDEZ Y EFICIENCIA</li>
-						</ul>
-					</div><!-- /.text -->
-				</section><!-- /.detalle-servicio -->
 		</div>		
 
 
 
 				<aside>
 					    <!-- Slideshow 1 -->
-					    <div id="testimonios-area">
+					    <!--div id="testimonios-area">
 							<div class="flexslider">
 								<div class="slides">			
 									
@@ -77,7 +55,9 @@
 
 								</div>
 							</div>
-						</div>
+						</div-->
+
+						<?php include("citas.php"); ?>
 
 				</aside>
 

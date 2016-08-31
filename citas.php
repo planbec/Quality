@@ -1,5 +1,5 @@
-<aside class="citas">
-		<form action="enviar.php" method="post">
+<div class="citas">
+		<form action="enviar_cita.php" method="post">
 		<h2>Agenda tu cita</h2>
 		<input type="text" id="nombre" name="nombre" placeholder="Nombre" required="">
 		<input type="text" id="email" name="email" placeholder="email" required="">
@@ -14,4 +14,4 @@
 		<input type="text" id="dia" name="dia" placeholder="Día" required="">
 		<input type="submit" value="Enviar" class="btn-form">
 	</form>
-</aside>
+</div>

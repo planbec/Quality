@@ -18,7 +18,7 @@
 					<h3>Tratamientos</h3>
 					<ul>
 						<li><a href="#" <?php if($uri == 'cirugia') echo 'class="active"'?> >Cirug&iacute;a</a></li>
-						<li><a href="#" <?php if($uri == 'quimioterapia') echo 'class="active"'?> >Quimioterapia</a></li>
+						<li><a href="quimioterapia.php" <?php if($uri == 'quimioterapia') echo 'class="active"'?> >Quimioterapia</a></li>
 						<li><a href="#" <?php if($uri == 'radioterapia') echo 'class="active"'?> >Radioterapia</a></li>
 					</ul>
 				</div>
