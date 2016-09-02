@@ -16,7 +16,7 @@
 			<?php include("servicios-home.php"); ?>
 
 		<!-- Servicios -->	
-			<?php include("convenios.php"); ?>
+			<?php include("convenios-home.php"); ?>
 
 	<div>
 	</main>

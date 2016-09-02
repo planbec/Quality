@@ -11,9 +11,7 @@
 			
 			<header class="page-header">
 				<div class="container">		
-
-					
-				
+					<h1>Cont&aacute;ctenos</h1>					
 				</div>
 			</header><!-- /.page-header -->
 			
@@ -21,15 +19,11 @@
 			
 			<div class="container page-content">
 
-				<h1><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp; Contactos</h1>
-
 				<div class="col-right">
-					<h3 class="title">Ubicaci&oacute;n</h3>
-					<iframe src="https://www.google.com/maps/d/embed?mid=1qHcaI_GZ7-8tj83MxlJlXYzveZM&z=16" width="640" height="400"></iframe>
-
-					<p><strong>Direcci&oacute;n:</strong> Ciudadela Vernaza Norte Mz 17 V 23 Avenida Hermano Miguel.<br>
-					<strong>Telfs.:</strong> (593 4) 292 4874<br>
-					<strong>E-mail:</strong> <a href="mailto:info@cismedical10.com">info@cismedical10.com</a></p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d498.37572427835386!2d-79.9060925692337!3d-2.151467883798406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902d6d9d41587f09%3A0xd5f5e1dbeedee1e2!2sParque+Empresarial+Col%C3%B3n!5e0!3m2!1ses-419!2s!4v1472849709358" width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+					<p><strong>Direcci&oacute;n:</strong> Centro empresarial Ciudad Col&oacute;n, Edf. Empresarial 1, 2do piso Of 208<br>
+					<strong>Telfs.:</strong> (593) 0996179227 - 0996171061<br>
+					<strong>E-mail:</strong> <a href="mailto:info@qualityofcare.com.ec">info@qualityofcare.com.ec</a></p>
 				</div>
 
 
@@ -38,18 +32,18 @@
 				<form action="enviar.php" method="post">
 					
 					<label for="nombre">Nombre:</label>
-					<input type="text" id="nombre" name="nombre" placeholder="¿Cual es tu nombre?" required />
+					<input type="text" id="nombre" name="nombre" required />
 					
 					<label for="email">Email:</label>
-					<input type="text" id="email" name="email" placeholder="¿A donde debería responderte?" required />
+					<input type="text" id="email" name="email" required />
 					
 					<label for="telefono">Telefono:</label>
-					<input type="text" id="telefono" name="telefono" placeholder="¿Número para contactarte?" required />
+					<input type="text" id="telefono" name="telefono" required />
 					
 					<label for="mensaje">Mensaje:</label>
-					<textarea id="mensaje" name="mensaje" rows="8" placeholder="Escribe aquí tus comentarios" required ></textarea>
+					<textarea id="mensaje" name="mensaje" rows="8" required ></textarea>
 					
-					<input type="submit" value="Enviar mensaje" class="btn-form" />
+					<input type="submit" value="Enviar mensaje" class="btn" />
 				
 				</form>
 				</div>

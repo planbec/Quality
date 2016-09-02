@@ -22,9 +22,9 @@
 
 				<ul>
 					<li><a href="quienessomos.php" <?php if($uri == 'quienessomos') echo 'class="active"'?> >Quienes somos</a></li>
-					<li><a href="#" <?php if($uri == 'staff') echo 'class="active"'?> >Staff M&eacute;dico</a></li>
-					<li><a href="#" <?php if($uri == 'tratamientos') echo 'class="active"'?> >Tratamientos para el C&aacute;ncer</a></li-->
-					<li><a href="#" <?php if($uri == 'convenios') echo 'class="active"'?> >Convenios con Asegurados</a></li>
+					<li><a href="staff.php" <?php if($uri == 'staff' || in_array($uri,$staff) ) echo 'class="active"'?> >Staff M&eacute;dico</a></li>
+					<li><a href="tratamientos.php" <?php if($uri == 'tratamientos' || in_array($uri,$tratamientos) ) echo 'class="active"'?>  >Tratamientos para el C&aacute;ncer</a></li>
+					<li><a href="convenios.php" <?php if($uri == 'convenios') echo 'class="active"'?> >Convenios con Asegurados</a></li>
 				</ul>
 			</nav>
 		</div>

@@ -215,22 +215,45 @@ hr.center {
 
 .detalle-servicio {
   display: table;
-  margin-bottom: 1.5em; }
+  margin-bottom: 1.5em;
+  width: 80%;
+  margin: auto; }
+  .detalle-servicio .foto {
+    float: left;
+    margin: 1rem;
+    width: 25%; }
+    .detalle-servicio .foto img {
+      border-radius: 10%;
+      border: 1px solid #ddd;
+      max-width: 100%;
+      padding: 2px; }
   .detalle-servicio .text {
-    display: table-cell;
-    vertical-align: top; }
+    float: left;
+    width: 70%; }
   .detalle-servicio .icono {
     width: 8rem;
     display: table-cell;
     vertical-align: top; }
     .detalle-servicio .icono .icono-servicio {
       margin: 0 1rem; }
+  .detalle-servicio h5 {
+    font-size: 1.2rem;
+    font-style: normal; }
   .detalle-servicio ul {
     margin: 0;
     padding: 0; }
     .detalle-servicio ul li {
       list-style: square;
-      margin-bottom: 1rem; }
+      margin-bottom: 0.8rem; }
+  .detalle-servicio blockquote {
+    background: #EEE;
+    border-radius: 1rem;
+    float: right;
+    clear: both;
+    color: #666;
+    margin: 1.5rem 0;
+    padding: 1rem;
+    width: 70%; }
 
 .container {
   width: 100%;
@@ -483,6 +506,7 @@ hr.center {
       .citas form input.btn-form, .citas form select.btn-form {
         background: #7ac142 !important;
         color: #FFF;
+        margin-top: 0.56em !important;
         width: 40%; }
         .citas form input.btn-form:hover, .citas form select.btn-form:hover {
           background: #e99935 !important; }
@@ -537,10 +561,11 @@ hr.center {
 .especialidades #testimonios-area {
   background: none; }
   .especialidades #testimonios-area .testimonio {
-    box-shadow: none; }
+    box-shadow: none;
+    border-radius: 1rem; }
     .especialidades #testimonios-area .testimonio img {
-      border: 1px solid #FFF;
-      /*border-radius: 0.6rem;*/ }
+      border: 1px solid #ccc;
+      border-radius: 1rem; }
 
 .testimonio {
   padding: 0;
@@ -615,15 +640,16 @@ input[type="submit"], input[type="button"] {
 
 .btn {
   padding: .7em 1.2em;
-  background: #009d3d url(../img/btn_home.png) top center no-repeat;
-  border: 2px solid rgba(255, 255, 255, 0.5);
+  background: #7ac142;
+  padding: 0.6em 1.2em !important;
+  color: #FFF !important;
   font-family: 'Open Sans', Arial;
-  box-shadow: inset 0 -10px 22px rgba(0, 0, 0, 0.4);
-  -webkit-border-radius: 0.5em;
-  -moz-border-radius: 0.5em;
-  -ms-border-radius: 0.5em;
-  -o-border-radius: 0.5em;
-  border-radius: 0.5em;
+  box-shadow: inset 0 -10px 22px rgba(0, 0, 0, 0.2);
+  -webkit-border-radius: 0.2em;
+  -moz-border-radius: 0.2em;
+  -ms-border-radius: 0.2em;
+  -o-border-radius: 0.2em;
+  border-radius: 0.2em;
   display: inline-block;
   color: #fff;
   text-transform: uppercase; }
@@ -631,10 +657,10 @@ input[type="submit"], input[type="button"] {
     background: #ea5932;
     text-decoration: none; }
   .btn.btn-light {
-    background: #f1f2f3;
+    background: #55abde;
     border: solid .0625rem #d9d9e2;
-    box-shadow: none;
-    color: #7e89a3; }
+    color: #0f4857 !important;
+    padding: 0.5rem 1rem !important; }
     .btn.btn-light:hover {
       background: #ea5932;
       color: #FFF; }
@@ -642,6 +668,7 @@ input[type="submit"], input[type="button"] {
 .btn-form {
   padding: .6em 1.3em;
   background: #0f4857 !important;
+  color: #FFF;
   border: 2px solid #bbcecd;
   font: 0.8rem 'Open Sans', Arial;
   box-shadow: inset 0 -15px 25px rgba(0, 0, 0, 0.4);
@@ -655,7 +682,7 @@ input[type="submit"], input[type="button"] {
   color: #fff;
   text-transform: uppercase; }
   .btn-form:hover {
-    background: #009d3d !important;
+    background: #e99935 !important;
     text-decoration: none; }
 
 .alerta {
@@ -692,41 +719,57 @@ input[type="submit"], input[type="button"] {
   .container.page-content h2 {
     color: #009d3d;
     display: block;
-    font: 2.1rem/2rem 'Roboto Condensed',Arial;
-    margin: 1rem 0 2rem;
+    font: 1.7rem/1.7rem 'Roboto Condensed',Arial;
+    margin: 2rem 0 1rem;
     padding: 0;
-    text-transform: uppercase; }
+    text-transform: normal !important;
+    text-shadow: none; }
   .container.page-content h3 {
     color: #009d3d;
-    font: 1.8rem/2rem 'Roboto Condensed',Arial;
-    margin: 2rem 0 1rem; }
+    font: 2rem/2rem 'Roboto Condensed',Arial;
+    margin: 2.5rem 0 1rem; }
   .container.page-content h4 {
     color: #6a8d93;
     margin: 1rem 0;
     font-size: 1.3rem;
     text-shadow: 1px 1px 2px #FFF; }
   .container.page-content p {
-    margin-bottom: 1rem;
-    clear: both; }
+    margin: 1rem 0 1.5rem;
+    font-size: 1.1rem;
+    line-height: 1.6rem; }
+    .container.page-content p strong {
+      display: block;
+      margin-top: 3rem; }
   .container.page-content a {
-    color: #8498a0;
-    text-decoration: underline; }
+    color: #009d3d;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    text-transform: none; }
+    .container.page-content a span {
+      display: block;
+      text-transform: uppercase;
+      font-weight: 600; }
     .container.page-content a:hover {
-      color: #0f4857; }
+      color: #0f4857;
+      text-decoration: none; }
   .container.page-content i.fa {
     font-size: 3.5rem; }
   .container.page-content ul {
-    margin-bottom: 3rem; }
+    margin-bottom: 3rem;
+    margin: 0; }
     .container.page-content ul li {
       list-style: circle;
-      list-style-position: inside; }
+      list-style-position: outside;
+      font-size: 1.1rem;
+      padding: 0.5rem 0; }
   .container.page-content .especialidades {
     width: 60%;
-    float: right;
-    margin-left: 4%; }
+    float: left;
+    margin-right: 4%; }
   .container.page-content aside {
     width: 35%;
-    float: right;
+    float: left;
     padding-top: 0; }
     .container.page-content aside .citas {
       position: relative;
@@ -736,16 +779,25 @@ input[type="submit"], input[type="button"] {
       .container.page-content aside .citas h2 {
         background: none;
         margin: 0;
-        padding: 0 0 0.5rem;
         color: #FFF;
         text-shadow: none; }
   .container.page-content figure.foto {
-    clear: both;
-    float: right;
-    width: 40%;
-    margin-left: 1rem; }
+    width: 90%;
+    margin: 1rem auto; }
     .container.page-content figure.foto img {
-      border: 2px solid #FFF;
+      border: 1px solid #ededed;
+      border-radius: 1rem;
+      padding: 0.2rem;
+      margin-top: 0.5rem;
+      width: 100%; }
+  .container.page-content figure.foto1 {
+    float: right;
+    width: 45%;
+    margin-left: 1rem; }
+    .container.page-content figure.foto1 img {
+      border: 1px solid #ededed;
+      border-radius: 1rem;
+      padding: 0.2rem;
       margin-top: 0.5rem;
       width: 100%; }
 
@@ -880,7 +932,6 @@ figure.icono-servicio {
       color: #ea5932;
       text-decoration: none;
       display: block;
-      font: 1.6rem Dosis,Arial;
       margin: 0 0 1rem -0.8rem;
       padding: 0.3rem 1rem; }
       .portafolio-resumen h2 a:hover {
@@ -958,7 +1009,10 @@ aside form {
 
 article.portafolio-resumen img {
   /*margin-bottom:0.5rem;*/
-  width: 60%; }
+  border-radius: 0.8rem;
+  border: 1px solid #dedede;
+  padding: 0.2rem;
+  width: 80%; }
 
 .intro_inf {
   background: rgba(0, 0, 0, 0.5);

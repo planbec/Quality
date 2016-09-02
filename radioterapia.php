@@ -19,14 +19,15 @@
 			<div class="container page-content">
 			<div class="especialidades">
 
-				<h2>Quimioterapia</h2>
+				<h2>Radioterapia</h2>
 
 					    <!-- Slideshow 1 -->
 					    <div id="testimonios-area">
 							<div class="flexslider">
 								<div class="slides">			
-									<div class="testimonio"><img src="img/foto_quimio01.jpg" alt="" ></div>
-									<div class="testimonio"><img src="img/foto_quimio02.jpg" alt="" ></div>
+									<div class="testimonio"><img src="img/foto_radio01.jpg" alt="" ></div>
+									<div class="testimonio"><img src="img/foto_radio02.jpg" alt="" ></div>
+									<div class="testimonio"><img src="img/foto_radio03.jpg" alt="" ></div>
 								</div>
 							</div>
 						</div>

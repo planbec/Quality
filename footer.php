@@ -7,19 +7,19 @@
 				<div class="col3">
 					<h3>Nuestro Staff</h3>
 					<ul>
-						<li><a href="#" <?php if($uri == 'staff') echo 'class="active"'?> >DR. MAURICIO RIOFRIO RIOFRIO</a></li>
-						<li><a href="#" <?php if($uri == 'staff') echo 'class="active"'?> >DR. CARLOS FREIRE ALPRECHE</a></li>
-						<li><a href="#" <?php if($uri == 'staff') echo 'class="active"'?> >LIC. M&Oacute;NICA JARR&Iacute;N &Aacute;LVAREZ</a></li>
-						<li><a href="#" <?php if($uri == 'staff') echo 'class="active"'?> >DRA. ERICKA JUDITH SERRANO BUENO</a></li>
+						<li><a href="mauricio-riofrio.php" <?php if($uri == 'staff') echo 'class="active"'?> >DR. MAURICIO RIOFRIO RIOFRIO</a></li>
+						<li><a href="carlos-freire.php" <?php if($uri == 'staff') echo 'class="active"'?> >DR. CARLOS FREIRE ALPRECHE</a></li>
+						<li><a href="monica-jarrin.php" <?php if($uri == 'staff') echo 'class="active"'?> >LIC. M&Oacute;NICA JARR&Iacute;N &Aacute;LVAREZ</a></li>
+						<li><a href="ericka-serrano.php" <?php if($uri == 'staff') echo 'class="active"'?> >DRA. ERICKA JUDITH SERRANO BUENO</a></li>
 					</ul>
 				</div>
 
 				<div class="col3">
 					<h3>Tratamientos</h3>
 					<ul>
-						<li><a href="#" <?php if($uri == 'cirugia') echo 'class="active"'?> >Cirug&iacute;a</a></li>
+						<!--li><a href="cirugia.php" <?php if($uri == 'cirugia') echo 'class="active"'?> >Cirug&iacute;a</a></li-->
 						<li><a href="quimioterapia.php" <?php if($uri == 'quimioterapia') echo 'class="active"'?> >Quimioterapia</a></li>
-						<li><a href="#" <?php if($uri == 'radioterapia') echo 'class="active"'?> >Radioterapia</a></li>
+						<li><a href="radioterapia.php" <?php if($uri == 'radioterapia') echo 'class="active"'?> >Radioterapia</a></li>
 					</ul>
 				</div>
 
