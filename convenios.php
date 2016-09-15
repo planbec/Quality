@@ -17,56 +17,61 @@
 			
 			
 			<div class="container page-content">
-				<h2>Estas son algunas de las empresas asociadas con las que trabajamos</h2>
-<br><br>
+				<h2>Aseguradoras</h2>
+<br>
 				<div class="portafolio-list cols">
 
 					
 					<article class="portafolio-resumen col4">
-						<img src="img/logo_alcivar.png" alt="Hospital Clínica Alcivar" />
-						<p>Hospital Cl&iacute;nica Alcivar</p>
-					</article><!-- /.portafolio-resumen -->
-					
-					
-					<article class="portafolio-resumen col4">
-						<img src="img/logo_kennedy.png" alt="Clínica Kennedy" />
-						<p>Cl&iacute;nica Kennedy</p>
-					</article><!-- /.portafolio-resumen -->
-
-
-					<article class="portafolio-resumen col4">
-						<img src="img/logo_mediglobal.png" alt="Centro Médico Mediglobal" />
+						<a href="http://www.mediglobal.com.ec/" target="blank"><img src="img/logo_mediglobal.png" alt="Centro Médico Mediglobal" /></a>
 						<p>Centro M&eacute;dico Mediglobal</p>
 					</article><!-- /.portafolio-resumen -->
 
 
 					<article class="portafolio-resumen col4">
-						<img src="img/logo_negocios.png" alt="Clínica Kennedy" />
-						<p>Cl&iacute;nica Kennedy</p>
+						<a href="http://www.bmi.com.ec/" target="blank"><img src="img/logo_bmi.jpg" alt="BMI" /></a>
+						<p>BMI</p>
 					</article><!-- /.portafolio-resumen -->
 
 
 					<article class="portafolio-resumen col4">
-						<img src="img/logo_salud.png" alt="Salud" />
+						<a href="https://www.saludsa.com/web/" target="blank"><img src="img/logo_salud.png" alt="Salud" /></a>
 						<p>Salud</p>
 					</article><!-- /.portafolio-resumen -->
+
+
+					<article class="portafolio-resumen col4">
+						&nbsp;
+					</article><!-- /.portafolio-resumen -->
+
+				</div>
+
+				<h2>Alianzas</h2>
+				<br>
+
+				<div class="portafolio-list cols">
+
+					<article class="portafolio-resumen col4">
+						<a href="http://www.bestdoctorsinsurance.com/df/es/" target="blank"><img src="img/logo_best.jpg" alt="Bestdoctor" /></a>
+						<p>Bestdoctor</p>
+					</article><!-- /.portafolio-resumen -->
 					
 					
 					<article class="portafolio-resumen col4">
-						<img src="img/logo_sanfrancisco.png" alt="Clínica San Francisco" />
-						<p>Cl&iacute;nica San Francisco</p>
+						<a href="http://www.humana.com.ec/" target="blank"><img src="img/logo_humana.jpg" alt="Humana" /></a>
+						<p>Humana</p>
 					</article><!-- /.portafolio-resumen -->
 
 
 					<article class="portafolio-resumen col4">
-						<img src="img/logo_unilever.png" alt="Unilever" />
-						<p>Unilever</p>
+						<a href="https://www.medec.ec/" target="blank"><img src="img/logo_medec.jpg" alt="Medec" /></a>
+						<p>Medec</p>
 					</article><!-- /.portafolio-resumen -->
 
 
 					<article class="portafolio-resumen col4">
-						<img src="img/logo_wong.png" alt="Wong" />
-						<p>Wong</p>
+						<a href="http://www.bupasalud.com.ec/" target="blank"><img src="img/logo_bupa.jpg" alt="Bupa" /></a>
+						<p>Bupa</p>
 					</article><!-- /.portafolio-resumen -->
 
 

@@ -30,34 +30,45 @@
 					</article><!-- /.portafolio-resumen -->
 					
 					
-					<article class="portafolio-resumen col4">
-						<a href="carlos-freire.php"><img src="img/dr_riofrio.jpg" alt="Dr. Carlos Freire Alpreche" /></a>
+					<!--article class="portafolio-resumen col4">
+						<a href="carlos-freire.php"><img src="img/dr_freire.jpg" alt="Dr. Carlos Freire Alpreche" /></a>
 						<header>
-							<h2><a href="carlos-freire.php">Dr. Carlos <span>Freire Alpreche</span></a></h2>
+							<h2><a href="carlos-freire.php">Dr. Carlos <span>Freire Alprecht</span></a></h2>
 						</header>
 						<p>Onc&oacute;logo Cl&iacute;nico</p>
 						<a href="carlos-freire.php" class="btn">Ver m&aacute;s detalles</a>
-					</article><!-- /.portafolio-resumen -->
-					
-					
+					</article -->
+
+
 					<article class="portafolio-resumen col4">
-						<a href="monica-jarrin.php"><img src="img/dr_riofrio.jpg" alt="Lic. Mónica Jarrín Álvarez" /></a>
+						<a href="rene-alvarado.php"><img src="img/dr_alvarado.jpg" alt="Dr. René Alvarado" /></a>
 						<header>
-							<h2><a href="monica-jarrin.php">Lic. M&oacute;nica <span>Jarr&iacute;n &Aacute;lvarez</span></a></h2>
+							<h2><a href="rene-alvarado.php">Dra. Ren&eacute; <span>Alvarado</span></a></h2>
 						</header>
 						<p>Onc&oacute;logo Cl&iacute;nico</p>
-						<a href="monica-jarrin.php" class="btn">Ver m&aacute;s detalles</a>
+						<a href="rene-alvarado.php" class="btn">Ver m&aacute;s detalles</a>
 					</article><!-- /.portafolio-resumen -->
-
+					
 
 					<article class="portafolio-resumen col4">
-						<a href="ericka-serrano.php"><img src="img/dr_riofrio.jpg" alt="Dra. Ericka Judith Serrano Bueno" /></a>
+						<a href="ericka-serrano.php"><img src="img/dr_serrano.jpg" alt="Dra. Ericka Judith Serrano Bueno" /></a>
 						<header>
 							<h2><a href="ericka-serrano.php">Dra. Ericka Judith <span>Serrano Bueno</span></a></h2>
 						</header>
 						<p>Onc&oacute;logo Cl&iacute;nico</p>
 						<a href="ericka-serrano.php" class="btn">Ver m&aacute;s detalles</a>
 					</article><!-- /.portafolio-resumen -->
+
+					
+					<article class="portafolio-resumen col4">
+						<a href="monica-jarrin.php"><img src="img/dr_jarrin.jpg" alt="Lic. Mónica Jarrín Álvarez" /></a>
+						<header>
+							<h2><a href="monica-jarrin.php">Dr. M&oacute;nica<span>Jarr&iacute;n &Aacute;lvarez</span></a></h2>
+						</header>
+						<p>Onc&oacute;logo Cl&iacute;nico</p>
+						<a href="monica-jarrin.php" class="btn">Ver m&aacute;s detalles</a>
+					</article><!-- /.portafolio-resumen -->
+
 
 				</div>
 

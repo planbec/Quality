@@ -35,24 +35,17 @@
 
 				<section>
 					<div class="text">
-<p>La quimioterapia es el uso de fármacos para destruir las células cancerosas. Actúa evitando que las células cancerosas crezcan y se dividan en más células. Debido a que las células cancerosas en general crecen y se dividen más rápido que las células sanas, la quimioterapia las destruye más rápido que a la mayoría de las células sanas.</p>
-<p>Como los fármacos de la quimioterapia son fuertes, estos causan daño a muchas células en crecimiento, incluidas algunas células sanas. Este daño causa los efectos secundarios de la quimioterapia.
-Diferentes tipos de quimioterapia</p>
-<p>La quimioterapia con estos fármacos fuertes se denomina quimioterapia estándar, tradicional o citotóxica.</p>
-<p>Muchos otros tipos de fármacos también tratan el cáncer. Muchos de los fármacos más recientes se conocen como fármacos dirigidos, debido a que dañan las células cancerosas bloqueando los genes o las proteínas que se encuentran en las células cancerosas. Debido a que estos tratamientos actúan específicamente en las células cancerosas, causan diferentes efectos secundarios y por lo general dañan menos a las células sanas. Otros tipos de terapias contra el cáncer incluyen hormonas y fármacos que trabajan junto con su sistema inmunitario para combatir el cáncer. Obtenga más información sobre la terapia dirigida y la inmunoterapia.</p>
+						<h3>&iquest;Qu&eacute; es la radioterapia?</h3>
+<p>La radioterapia (tambi&eacute;n llamada terapia con rayos X o irradiaci&oacute;n) es el uso de un tipo de energ&iacute;a (llamada radiaci&oacute;n ionizante) para destruir las c&eacute;lulas cancerosas y reducir el tama&ntilde;o de los tumores. La radioterapia lesiona o destruye las c&eacute;lulas en el &aacute;rea que recibe tratamiento al da&ntilde;ar su material gen&eacute;tico y hacer imposible que crezcan y se dividan. Aunque la radiaci&oacute;n da&ntilde;a las c&eacute;lulas cancerosas as&iacute; como las normales, muchas c&eacute;lulas normales se recuperan de los efectos de la radiaci&oacute;n y funcionan adecuadamente. El objeto de la radioterapia es destruir el mayor n&uacute;mero posible de c&eacute;lulas cancerosas y limitar el da&ntilde;o que sufre el tejido sano del derredor.</p>
+<p>Hay distintos tipos de radiaci&oacute;n y modos distintos de administrarla. Por ejemplo, ciertos tipos de radiaci&oacute;n pueden penetrar m&aacute;s profundamente el cuerpo que otros. Adem&aacute;s, se pueden controlar muy bien algunos tipos de radiaci&oacute;n para tratar s&oacute;lo un &aacute;rea peque&ntilde;a (una pulgada de tejido, por ejemplo) sin da&ntilde;ar el tejido u &oacute;rganos de los alrededores. Otros tipos de radiaci&oacute;n son mejores para tratar &aacute;reas m&aacute;s grandes.</p>
+<p>En algunos casos, el objeto de la radioterapia es la destrucci&oacute;n completa de un tumor.</p>
+En otros, el objetivo es reducir el tamaño del tumor y aliviar los s&iacute;ntomas. En cualquier caso, los m&eacute;dicos planifican el tratamiento para limitar lo m&aacute;s posible el da&ntilde;o al tejido sano.</p>
+<p>Alrededor de la mitad de los pacientes con c&aacute;ncer reciben alg&uacute;n tipo de radioterapia. Se puede usar la radioterapia sola o en combinaci&oacute;n con otros tratamientos de c&aacute;ncer, como la quimioterapia o la cirug&iacute;a. En algunos casos, es posible que el paciente reciba varios tipos de radioterapia.</p>
 
-<h3>¿Cómo trata la quimioterapia al cáncer?</h3>
-<p>Los médicos usan quimioterapia de diferentes formas en diferentes momentos. Estos medicamentos incluyen los siguientes:</p>
-<ul>
-    <li>Antes de la cirugía o la radioterapia para reducir tumores; los médicos llaman a esto terapia neoadyuvante.</li>
-	<li>Después de la cirugía o la radioterapia para matar cualquier célula cancerosa que persista; los médicos llaman a esto quimioterapia adyuvante.</li>
-	<li>Como único tratamiento, por ejemplo, para tratar cánceres de la sangre o el sistema linfático. Estos incluyen leucemia y linfomas.</li>
-	<li>Para el cáncer que vuelve a aparecer después del tratamiento, denominado cáncer recurrente.</li>
-	<li>Para el cáncer que se disemina a otras partes del cuerpo, denominado cáncer metastásico.</li>
-</ul>
-
-<h3>Los objetivos de la quimioterapia</h3>
-<p>Los objetivos de la quimioterapia dependen del tipo de cáncer y de cuánto se haya diseminado. A veces, el objetivo principal es destruir todo el cáncer y evitar que vuelva a aparecer. Si esto no es posible, la quimioterapia puede retrasar o ralentizar el crecimiento del cáncer. Cuando la quimioterapia retrasa o ralentiza el crecimiento del cáncer, también existen menos síntomas causados por el cáncer. La quimioterapia administrada con el objetivo de retrasar el crecimiento del cáncer a veces se denomina quimioterapia paliativa. </p>
+<h3>&iquest;Cu&aacute;ndo se usa la radioterapia?</h3>
+<p>La radioterapia puede usarse para tratar casi toda clase de tumores s&oacute;lidos, entre ellos los c&aacute;nceres de cerebro, seno, c&eacute;rvix, laringe, pulm&oacute;n, páncreas, pr&oacute;stata, piel, espina dorsal, est&oacute;mago, &uacute;tero o sarcoma de tejidos blandos. La radiaci&oacute;n puede tambi&eacute;n usarse para tratar la leucemia y el linfoma (cánceres que afectan las c&eacute;lulas que forman la sangre y el sistema linfático, respectivamente). La dosis de radiaci&oacute;n que se administra en cada sitio depende de varios factores, incluso el tipo de cáncer y si hay tejidos u &oacute;rganos cercanos que pueden verse afectados por la radiaci&oacute;n.</p>
+<p>Para algunos tipos de c&aacute;ncer, la radiaci&oacute;n se puede administrar en &aacute;reas sin evidencia de c&aacute;ncer para evitar que crezcan las c&eacute;lulas cancerosas en el &aacute;rea que recibe la radiaci&oacute;n. Esta t&eacute;cnica se llama radioterapia profil&aacute;ctica.</p>
+<p>Tambi&eacute;n puede administrarse la radioterapia para reducir algunos s&iacute;ntomas como el dolor causado por un c&aacute;ncer que se ha diseminado a los huesos o a otras partes del cuerpo. Esto se llama radioterapia paliativa.</p>
 					</div><!-- /.text -->
 				</section><!-- /.detalle-servicio -->
 

@@ -7,9 +7,10 @@
 		<select>
 		  <option value="doctor">Doctor</option>
 		  <option value="mauricio-riofrio">Dr. Mauricio Riofrio Riofrio</option>
-		  <option value="carlos-freire">Dr. Carlos Freire Alpreche</option>
-		  <option value="monica-jarrin">Lic. Mónica Jarrín Álvarez</option>
+		  <option value="carlos-freire">Dr. Carlos Freire Alprecht</option>
+		  <option value="rene-alvarez">Dr. René Alvarez</option>
 		  <option value="ericka-judith">Dra. Ericka Judith Serrano</option>
+		  <option value="monica-jarrin">Dra. Mónica Jarrín Álvarez</option>
 		</select>
 		<input type="text" id="dia" name="dia" placeholder="Día" required="">
 		<input type="submit" value="Enviar" class="btn-form">

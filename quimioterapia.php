@@ -34,24 +34,40 @@
 
 				<section>
 					<div class="text">
-<p>La quimioterapia es el uso de fármacos para destruir las células cancerosas. Actúa evitando que las células cancerosas crezcan y se dividan en más células. Debido a que las células cancerosas en general crecen y se dividen más rápido que las células sanas, la quimioterapia las destruye más rápido que a la mayoría de las células sanas.</p>
-<p>Como los fármacos de la quimioterapia son fuertes, estos causan daño a muchas células en crecimiento, incluidas algunas células sanas. Este daño causa los efectos secundarios de la quimioterapia.
-Diferentes tipos de quimioterapia</p>
-<p>La quimioterapia con estos fármacos fuertes se denomina quimioterapia estándar, tradicional o citotóxica.</p>
-<p>Muchos otros tipos de fármacos también tratan el cáncer. Muchos de los fármacos más recientes se conocen como fármacos dirigidos, debido a que dañan las células cancerosas bloqueando los genes o las proteínas que se encuentran en las células cancerosas. Debido a que estos tratamientos actúan específicamente en las células cancerosas, causan diferentes efectos secundarios y por lo general dañan menos a las células sanas. Otros tipos de terapias contra el cáncer incluyen hormonas y fármacos que trabajan junto con su sistema inmunitario para combatir el cáncer. Obtenga más información sobre la terapia dirigida y la inmunoterapia.</p>
+<p>La quimioterapia (tambi&eacute;n llamada quimio) es un tipo de tratamiento del c&aacute;ncer que usa f&aacute;rmacos para destruir c&eacute;lulas cancerosas.</p>
 
-<h3>¿Cómo trata la quimioterapia al cáncer?</h3>
-<p>Los médicos usan quimioterapia de diferentes formas en diferentes momentos. Estos medicamentos incluyen los siguientes:</p>
+<h3>C&oacute;mo funciona la quimioterapia contra el c&aacute;ncer</h3>
+<p>La quimioterapia funciona al detener o hacer m&aacute;s lento el crecimiento de las c&eacute;lulas cancerosas, las cuales crecen y se dividen con rapidez. La quimioterapia se usa para:</p>
+
+<h3>Tratamiento del c&aacute;ncer</h3>
+<p>La quimioterapia puede usarse para curar el c&aacute;ncer, para reducir las posibilidades de que regrese el c&aacute;ncer, o para detenerlo o hacer lento su crecimiento.</p>
 <ul>
-    <li>Antes de la cirugía o la radioterapia para reducir tumores; los médicos llaman a esto terapia neoadyuvante.</li>
-	<li>Después de la cirugía o la radioterapia para matar cualquier célula cancerosa que persista; los médicos llaman a esto quimioterapia adyuvante.</li>
-	<li>Como único tratamiento, por ejemplo, para tratar cánceres de la sangre o el sistema linfático. Estos incluyen leucemia y linfomas.</li>
-	<li>Para el cáncer que vuelve a aparecer después del tratamiento, denominado cáncer recurrente.</li>
-	<li>Para el cáncer que se disemina a otras partes del cuerpo, denominado cáncer metastásico.</li>
+    <li>Alivio de los s&iacute;ntomas del c&aacute;ncer</li>
+    <li>La quimioterapia puede usarse para encoger los tumores que causan dolor y otros problemas.</li>
 </ul>
 
-<h3>Los objetivos de la quimioterapia</h3>
-<p>Los objetivos de la quimioterapia dependen del tipo de cáncer y de cuánto se haya diseminado. A veces, el objetivo principal es destruir todo el cáncer y evitar que vuelva a aparecer. Si esto no es posible, la quimioterapia puede retrasar o ralentizar el crecimiento del cáncer. Cuando la quimioterapia retrasa o ralentiza el crecimiento del cáncer, también existen menos síntomas causados por el cáncer. La quimioterapia administrada con el objetivo de retrasar el crecimiento del cáncer a veces se denomina quimioterapia paliativa. </p>
+<h3>A qui&eacute;n se da quimioterapia</h3>
+<p>La quimioterapia se usa para tratar muchos tipos de c&aacute;ncer. Para algunas personas, la quimioterapia puede ser el único tratamiento que reciben. Pero, con m&aacute;s frecuencia, usted recibir&aacute; quimioterapia y otros tratamientos del c&aacute;ncer. Los tipos de tratamiento que usted necesite depender&aacute;n del tipo de c&aacute;ncer que tiene usted, si se ha diseminado y a qu&eacute; lugar, y si tiene otros problemas de salud.</p>
+
+<h3>C&oacute;mo se usa la quimioterapia con otros tratamientos del c&aacute;ncer</h3>
+<p>Cuando se usa con otros tratamientos, la quimioterapia puede:</p>
+<ul>
+    <li>Reducir el tama&ntilde;o de un tumor antes de la cirug&iacute;a o de radioterapia. Esto se llama quimioterapia neoadyuvante.</li>
+    <li>Destruir las c&eacute;lulas cancerosas que pueden haber quedado despu&eacute;s del tratamiento con cirug&iacute;a o con radioterapia. Esto se llama quimioterapia adyuvante.</li>
+    <li>Ayudar a otros tratamientos para que funcionen mejor.</li>
+    <li>Destruir las c&eacute;lulas cancerosas que han regresado o que se han extendido a otras partes del cuerpo.</li>
+</ul>
+
+<h3>La quimioterapia puede causar efectos secundarios</h3>
+<p>La quimioterapia no solo destruye las c&eacute;lulas cancerosas que crecen con rapidez, sino tambi&eacute;n destruye o hace lento el crecimiento de c&eacute;lulas sanas que crecen y se dividen con rapidez. Ejemplo de esto son las c&eacute;lulas que revisten su boca e intestinos y las que hacen que crezca su pelo. El da&ntilde;o a las c&eacute;lulas sanas puede causar efectos secundarios, como llagas en la boca, n&aacute;useas y ca&iacute;da del pelo. Los efectos secundarios con frecuencia mejoran o desaparecen despu&eacute;s de que usted termina la quimioterapia.</p>
+<p>El efecto secundario m&aacute;s común es la fatiga, la cual es sentir cansancio y agotamiento. Usted se puede preparar para la fatiga al:</p>
+<ul>
+    <li>Pedir a alguien que le lleve a la quimioterapia y le traiga de regreso.</li>
+    <li>Reservar tiempo para descansar el d&iacute;a de quimioterapia y el d&iacute;a despu&eacute;s.</li>
+    <li>Pedir ayuda con las comidas y el cuidado de los ni&ntilde;os el d&iacute;a de quimioterapia y por lo menos un d&iacute;a despu&eacute;s.</li>
+    <li>Hay muchas formas con las que usted puede manejar los efectos secundarios de la quimioterapia. Para m&aacute;s informaci&oacute;n, vea la secci&oacute;n sobre efectos secundarios.</li>
+</ul>
+
 					</div><!-- /.text -->
 				</section><!-- /.detalle-servicio -->
 
