@@ -13,7 +13,11 @@
 				</div>
 				
 				<div class="testimonio">
-					<img src="img/slider2.png" alt="Familias" >
+					<img src="img/slider2.png" alt="Quality" >
+				</div>
+
+				<div class="testimonio">
+					<img src="img/slider3.png" alt="Terapias" >
 				</div>
 
 

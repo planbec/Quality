@@ -27,7 +27,6 @@
 								<div class="slides">			
 									<div class="testimonio"><img src="img/foto_radio01.jpg" alt="" ></div>
 									<div class="testimonio"><img src="img/foto_radio02.jpg" alt="" ></div>
-									<div class="testimonio"><img src="img/foto_radio03.jpg" alt="" ></div>
 								</div>
 							</div>
 						</div>

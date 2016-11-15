@@ -20,7 +20,7 @@
 
 				<div class="portafolio-list cols">		
 					
-					<article class="portafolio-resumen col4">
+					<article class="portafolio-resumen col5">
 						<a href="mauricio-riofrio.php"><img src="img/dr_riofrio.jpg" alt="Dr. Mauricio Riofrío Riofrío" /></a>
 						<header>
 							<h2><a href="mauricio-riofrio.php">Dr. Mauricio <span>Riofr&iacute;o Riofr&iacute;o</span></a></h2>
@@ -30,27 +30,27 @@
 					</article><!-- /.portafolio-resumen -->
 					
 					
-					<!--article class="portafolio-resumen col4">
+					<article class="portafolio-resumen col5">
 						<a href="carlos-freire.php"><img src="img/dr_freire.jpg" alt="Dr. Carlos Freire Alpreche" /></a>
 						<header>
 							<h2><a href="carlos-freire.php">Dr. Carlos <span>Freire Alprecht</span></a></h2>
 						</header>
-						<p>Onc&oacute;logo Cl&iacute;nico</p>
+						<p>Hemat&oacute;logo Cl&iacute;nico</p>
 						<a href="carlos-freire.php" class="btn">Ver m&aacute;s detalles</a>
-					</article -->
+					</article><!-- /.portafolio-resumen -->
 
 
-					<article class="portafolio-resumen col4">
-						<a href="rene-alvarado.php"><img src="img/dr_alvarado.jpg" alt="Dr. René Alvarado" /></a>
+					<article class="portafolio-resumen col5">
+						<a href="rene-alvarado.php"><img src="img/dr_alvarado.jpg" alt="Dr. Reneé Alvarado" /></a>
 						<header>
-							<h2><a href="rene-alvarado.php">Dra. Ren&eacute; <span>Alvarado</span></a></h2>
+							<h2><a href="rene-alvarado.php">Dr. Rene&eacute; <span>Alvarado</span></a></h2>
 						</header>
-						<p>Onc&oacute;logo Cl&iacute;nico</p>
+						<p>M&eacute;dico General</p>
 						<a href="rene-alvarado.php" class="btn">Ver m&aacute;s detalles</a>
 					</article><!-- /.portafolio-resumen -->
 					
 
-					<article class="portafolio-resumen col4">
+					<article class="portafolio-resumen col5">
 						<a href="ericka-serrano.php"><img src="img/dr_serrano.jpg" alt="Dra. Ericka Judith Serrano Bueno" /></a>
 						<header>
 							<h2><a href="ericka-serrano.php">Dra. Ericka Judith <span>Serrano Bueno</span></a></h2>
@@ -60,12 +60,12 @@
 					</article><!-- /.portafolio-resumen -->
 
 					
-					<article class="portafolio-resumen col4">
+					<article class="portafolio-resumen col5">
 						<a href="monica-jarrin.php"><img src="img/dr_jarrin.jpg" alt="Lic. Mónica Jarrín Álvarez" /></a>
 						<header>
-							<h2><a href="monica-jarrin.php">Dr. M&oacute;nica<span>Jarr&iacute;n &Aacute;lvarez</span></a></h2>
+							<h2><a href="monica-jarrin.php">Lic. M&oacute;nica<span>Jarr&iacute;n &Aacute;lvarez</span></a></h2>
 						</header>
-						<p>Onc&oacute;logo Cl&iacute;nico</p>
+						<p>Licenciada</p>
 						<a href="monica-jarrin.php" class="btn">Ver m&aacute;s detalles</a>
 					</article><!-- /.portafolio-resumen -->
 

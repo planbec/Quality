@@ -185,9 +185,15 @@ hr.center {
 
 .cols .col5 {
   float: left;
-  width: 25.5%;
-  margin-right: 1%;
+  width: 18.5%;
+  margin-right: 1.5%;
   margin-bottom: 3em; }
+
+.cols .col5:nth-child(5n) {
+  margin-right: 0; }
+
+.cols .col5:nth-child(5n+6) {
+  clear: left; }
 
 .cols:before, .cols:after {
   content: " ";
@@ -229,6 +235,7 @@ hr.center {
       padding: 2px; }
   .detalle-servicio .text {
     float: left;
+    text-align: justify;
     width: 70%; }
   .detalle-servicio .icono {
     width: 8rem;
@@ -941,6 +948,10 @@ figure.icono-servicio {
   .portafolio-resumen p {
     margin: 0 0 1em 0; }
 
+.asist li {
+  list-style-position: inside;
+  margin-left: 1rem; }
+
 .portafolio-detalle .page-header {
   padding: 3em 0 18em 0;
   margin-bottom: -15em; }
@@ -994,6 +1005,8 @@ section#widget-home {
   section#widget-home iframe {
     clear: both;
     width: 100%; }
+section .text {
+  text-align: justify; }
 
 aside.col4 {
   margin-right: 0 !important;

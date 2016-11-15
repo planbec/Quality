@@ -44,7 +44,7 @@
 <p>Proporcionar una atenci&oacute;n &oacute;ptima a los pacientes de forma ambulatoria, satisfaciendo sus necesidades y expectativas mediante la prestaci&oacute;n de servicios m&eacute;dicos y cuidados de enfermer&iacute;a especializados.</p>
 
 <h2>Visi&oacute;n</h2>
-<p>Aportando de forma espec&iacute;fica a la mejora de la calidad de vida y al logro de los objetivos del plan terap&eacute;utico, asegurando adem&aacute;s un uso eficiente de los recursos</p>
+<p>Aportando de forma espec&iacute;fica a la mejora de la calidad de vida y al logro de los objetivos del plan terap&eacute;utico, asegurando adem&aacute;s un uso eficiente de los recursos.</p>
 
 <h2>Objetivo</h2>
 <p>Promover permanentemente la satisfacci&oacute;n plena de los usuarios de nuestros servicios a traves de una atenci&oacute;n profesional especializada y de alta calidad cient&iacute;fico-t&eacute;cnica y humana.</p>
@@ -91,10 +91,9 @@
 	<li>Estaci&oacute;n de enfermer&iacute;a estrat&eacute;gicamente ubicada que permite la visualizaci&oacute;n global de todos los cub&iacute;culos.</li>
 </ul>
 
-<figure class="foto"><img src="img/foto_cubiculo.jpg">CÁMARA DE FLUJO LAMINAR.</figure>
+<figure class="foto"><img src="img/foto_quienes04.jpg"></figure>
 
 <p><strong>El centro cuenta con seis cub&iacute;culos  dotados de:</strong></p>
-<figure class="foto1"><img src="img/foto_counter.jpg"></figure>
 <ul>
 	<li>Sillones reclinables  para tratamiento</li>
 	<li>Porta suero</li>

@@ -20,23 +20,23 @@
 
 				<section class="detalle-servicio">
 					<div class="foto">
-						<img src="img/dr_jarrin.jpg" Title="Dra. Mónica Guicela Jarrín Álvarez">
+						<img src="img/dr_jarrin.jpg" Title="Lic. Mónica Guicela Jarrín Álvarez">
 					</div>
 					<div class="text">
 						
-						<h3>Dra. M&oacute;nica Guicela Jarr&iacute;n &Aacute;lvarez</h3>
+						<h3>Lic. M&oacute;nica Guicela Jarr&iacute;n &Aacute;lvarez</h3>
 						
-						<h5>Onc&oacute;logo</h5>
+						<h5>Licenciada</h5>
 						<ul class="asist">
 							<li><strong>M&oacute;vil:</strong> 092592976</li>
 						</ul>
 
 						<h3>ESTUDIOS ACADEMICOS:</h3>
 						<ul class="asist">
-							<li><strong>Primaria: </strong> Escuela Particular “Cap. Oscar Salas”</li>
+							<!--li><strong>Primaria: </strong> Escuela Particular “Cap. Oscar Salas”</li>
 							<li><strong>Secundaria: </strong> Colegio Nacional Mixto “Patria Ecuatoriana”</li>
-							<li><strong>T&iacute;tulo obtenido: </strong>BACHILLER EN HUMANIDADES MODERNAS ESPECIALIDAD “QUIMICO – BIOLOGICO”</li>
-							<li><strong>Superior:</strong> Universidad Católica de Santiago de Guayaquil - Escuela de Enfermería “San Vicente de Paúl”</li>
+							<li><strong>T&iacute;tulo obtenido: </strong>BACHILLER EN HUMANIDADES MODERNAS ESPECIALIDAD “QUIMICO – BIOLOGICO”</li-->
+							<li>Universidad Católica de Santiago de Guayaquil - Escuela de Enfermería “San Vicente de Paúl”</li>
 							<li><strong>T&iacute;tulo obtenido:</strong> Licenciada en Enfermería  -  20 de Mayo de 1995</li>
 							<li><strong>SALUD RURAL:</strong>		Sub Centro de Salud “El Pangui” Zamora Chinchipe</li>
 							<li><strong>POST GRADO:</strong>	“Universidad Técnica Particular de Loja” </li>

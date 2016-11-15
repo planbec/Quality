@@ -26,7 +26,7 @@
 						
 						<h3>Dr. Rene&eacute; Alejandro Alvarado Rom&aacute;n</h3>
 						
-						<h5>Onc&oacute;logo</h5>
+						<h5>M&eacute;dico General</h5>
 						<ul class="asist">
 							<li>Móvil: 0999919962 (MOVISTAR)  - 0989877698 (CLARO)</li>
 							<li>Correo electrónico: docjano@hotmail.com</li>
@@ -34,10 +34,10 @@
 
 						<h3>ESTUDIOS ACADEMICOS:</h3>
 						<ul class="asist">
-							<li><strong>Primaria:</strong> Escuela Guillermo Maldonado Valencia</li>
+							<!--li><strong>Primaria:</strong> Escuela Guillermo Maldonado Valencia</li>
 							<li><strong>Secundaria:</strong> Colegio Nacional 26 de NOVIEMBRE</li>
-							<li><strong>Título obtenido:</strong> Bachiller en Qu&iacute;mico - Bi&oacute;logo</li>
-							<li><strong>Superior:</strong> Universidad Guayaquil, Facultad de Ciencias M&eacute;dicas.</li>
+							<li><strong>Título obtenido:</strong> Bachiller en Qu&iacute;mico - Bi&oacute;logo</li-->
+							<li>Universidad Guayaquil, Facultad de Ciencias M&eacute;dicas.</li>
 							<li><strong>T&iacute;tulo obtenido:</strong> M&eacute;dico Cirujano.</li>
 						</ul>
                                            

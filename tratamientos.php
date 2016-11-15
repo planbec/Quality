@@ -11,7 +11,7 @@
 			
 			<header class="page-header">
 				<div class="container">		
-					<h1>Staff M&eacute;dico</h1>					
+					<h1>Tratamientos</h1>					
 				</div>
 			</header><!-- /.page-header -->
 			
@@ -20,8 +20,8 @@
 
 				<div class="portafolio-list cols">
 					
-					<article class="portafolio-resumen col2">
-						<a href="quimioterapia.php"><img src="img/pg_quimioterapia.jpg" alt="Dr. Carlos Freire Alpreche" /></a>
+					<article class="portafolio-resumen col3">
+						<a href="quimioterapia.php"><img src="img/pg_quimioterapia.jpg" alt="Quimioterapia" /></a>
 						<header>
 							<h2><a href="quimioterapia.php"><span>Quimioterapia</span></a></h2>
 						</header>
@@ -29,12 +29,20 @@
 					</article><!-- /.portafolio-resumen -->
 					
 					
-					<article class="portafolio-resumen col2">
-						<a href="radioterapia.php"><img src="img/pg_radioterapia.jpg" alt="Lic. Mónica Jarrín Álvarez" /></a>
+					<article class="portafolio-resumen col3">
+						<a href="radioterapia.php"><img src="img/pg_radioterapia.jpg" alt="Radioterapia" /></a>
 						<header>
 							<h2><a href="radioterapia.php"><span>Radioterapia</span></a></h2>
 						</header>
 						<a href="radioterapia.php" class="btn">Ver m&aacute;s detalles</a>
+					</article><!-- /.portafolio-resumen -->
+
+					<article class="portafolio-resumen col3">
+						<a href="#"><img src="img/pg_cirugia.jpg" alt="Cirugías" /></a>
+						<header>
+							<h2><a href="#"><span>Cirug&iacute;as</span></a></h2>
+						</header>
+						<a href="#" class="btn">Ver m&aacute;s detalles</a>
 					</article><!-- /.portafolio-resumen -->
 
 

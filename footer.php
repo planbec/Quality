@@ -8,10 +8,10 @@
 					<h3>Nuestro Staff</h3>
 					<ul>
 						<li><a href="mauricio-riofrio.php" <?php if($uri == 'staff') echo 'class="active"'?> >DR. MAURICIO RIOFRIO RIOFRIO</a></li>
-						<!--li><a href="carlos-freire.php" <?php if($uri == 'staff') echo 'class="active"'?> >DR. CARLOS FREIRE ALPRECHE</a></li-->
-						<li><a href="rene-alvarez.php" <?php if($uri == 'staff') echo 'class="active"'?> >Dr. Ren&eacute; &Aacute;lvarez</a></li>
+						<li><a href="carlos-freire.php" <?php if($uri == 'staff') echo 'class="active"'?> >DR. CARLOS FREIRE ALPRECHE</a></li>
+						<li><a href="rene-alvarado.php" <?php if($uri == 'staff') echo 'class="active"'?> >Dr. Rene&eacute; &Aacute;lvarado</a></li>
 						<li><a href="ericka-serrano.php" <?php if($uri == 'staff') echo 'class="active"'?> >DRA. ERICKA JUDITH SERRANO BUENO</a></li>
-						<li><a href="monica-jarrin.php" <?php if($uri == 'staff') echo 'class="active"'?> >DRA. MÓNICA JARRÍN</a></li>
+						<li><a href="monica-jarrin.php" <?php if($uri == 'staff') echo 'class="active"'?> >Lic. M&Oacute;NICA JARR&Iacute;N</a></li>
 					</ul>
 				</div>
 
@@ -27,7 +27,7 @@
 				<div class="col3">
 						Direcci&oacute;n: Centro empresarial Ciudad Col&oacute;n, <br>
 						Edf. Empresarial 1, 2do piso Of 208<br>
-						Telfs.: 0996179227 - 0996171061<br>
+						Telfs.: (593-4) 2136748<br>
 						E-mail: <a href="mailto:info@qualityofcare.com.ec">info@qualityofcare.com.ec</a><br>
 						Guayaquil - Ecuador <br>
 				</div>

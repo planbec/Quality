@@ -23,8 +23,8 @@
 
 					
 					<article class="portafolio-resumen col4">
-						<a href="http://www.mediglobal.com.ec/" target="blank"><img src="img/logo_mediglobal.png" alt="Centro Médico Mediglobal" /></a>
-						<p>Centro M&eacute;dico Mediglobal</p>
+						<a href="http://www.humana.com.ec/" target="blank"><img src="img/logo_humana.jpg" alt="Humana" /></a>
+						<p>Humana</p>
 					</article><!-- /.portafolio-resumen -->
 
 
@@ -41,8 +41,10 @@
 
 
 					<article class="portafolio-resumen col4">
-						&nbsp;
+						<a href="http://www.bestdoctorsinsurance.com/df/es/" target="blank"><img src="img/logo_best.jpg" alt="Bestdoctor" /></a>
+						<p>Bestdoctor</p>
 					</article><!-- /.portafolio-resumen -->
+
 
 				</div>
 
@@ -52,14 +54,8 @@
 				<div class="portafolio-list cols">
 
 					<article class="portafolio-resumen col4">
-						<a href="http://www.bestdoctorsinsurance.com/df/es/" target="blank"><img src="img/logo_best.jpg" alt="Bestdoctor" /></a>
-						<p>Bestdoctor</p>
-					</article><!-- /.portafolio-resumen -->
-					
-					
-					<article class="portafolio-resumen col4">
-						<a href="http://www.humana.com.ec/" target="blank"><img src="img/logo_humana.jpg" alt="Humana" /></a>
-						<p>Humana</p>
+						<a href="http://www.mediglobal.com.ec/" target="blank"><img src="img/logo_mediglobal.png" alt="Centro Médico Mediglobal" /></a>
+						<p>Centro M&eacute;dico Mediglobal</p>
 					</article><!-- /.portafolio-resumen -->
 
 
@@ -74,6 +70,10 @@
 						<p>Bupa</p>
 					</article><!-- /.portafolio-resumen -->
 
+
+					<article class="portafolio-resumen col4">
+						&nbsp;
+					</article><!-- /.portafolio-resumen -->
 
 				</div>
 

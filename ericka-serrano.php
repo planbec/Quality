@@ -34,9 +34,9 @@
 
 						<h3>ESTUDIOS ACADEMICOS:</h3>
 						<ul class="asist">
-							<li><strong>Primaria:</strong> ESCUELA PARTICULAR “MARIA AUXILIADORA” (1ero – 6to grados)</li>
-							<li><strong>Secundaria:</strong> COLEGIO PARTICULAR  “SAGRADOS CORAZONES” (1ero – 6to curso)</li>
-							<li><strong>Superior:</strong> UNIVERSIDAD DE GUAYAQUIL.-  FACULTAD DE CIENCIAS MÉDICAS.  ESCUELA DE MEDICINA.<br>
+							<!--li><strong>Primaria:</strong> ESCUELA PARTICULAR “MARIA AUXILIADORA” (1ero – 6to grados)</li>
+							<li><strong>Secundaria:</strong> COLEGIO PARTICULAR  “SAGRADOS CORAZONES” (1ero – 6to curso)</li-->
+							<li>UNIVERSIDAD DE GUAYAQUIL.-  FACULTAD DE CIENCIAS MÉDICAS.  ESCUELA DE MEDICINA.<br>
 							UNIVERSIDAD DE GUAYAQUIL.-  FACULTAD DE CIENCIAS MÉDICAS.  ESCUELA DE POSTGRADO.</li>
 							<li><strong>T&iacute;tulo obtenido:</strong> ESPECIALISTA EN MEDICINA  INTERNA</li>
 						</ul>
