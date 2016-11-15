@@ -30,7 +30,9 @@
 			<div class="redes">
 				<span><a href="index.php" <?php if($uri == 'index') echo 'class="active"'?> ><i class="fa fa-home" aria-hidden="true"></i></a></span>
 				<span><a href="contactos.php" <?php if($uri == 'contactos') echo 'class="active"'?> ><i class="fa fa-envelope" aria-hidden="true"></i></a></span>
+				<?php if($uri == 'index') echo '<a href="#miModal" class="btn">Agenda tu cita</a>' ?>
 			</div>
+
 
 				<ul>
 					<li><a href="quienessomos.php" <?php if($uri == 'quienessomos') echo 'class="active"'?> >Quienes somos</a></li>

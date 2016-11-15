@@ -63,6 +63,9 @@
 	z-index: 3000; 
 	.header-cont { border-bottom:1px solid #FFF; box-sizing:border-box; margin:auto; max-width: 75rem; padding: 0 1rem; 
 		.redes {
+			padding-top: 10px;
+			width: 100%; 
+			.btn { float:right; margin-left: 30px; margin-top: 8px; }
 			/*float: right;*/
 			span { display: inline-block; margin: 0.5rem 1rem 0 0;
 				a {
@@ -100,7 +103,7 @@
 
 /* Menu */
 #main-menu {display:table-cell; width:70%; text-align:right; vertical-align:top; line-height:1.3em;
-	ul {margin:1rem 0 0 0; padding:0;list-style:none;background:0;
+	ul {margin:1.5rem 0 0 0; padding:0;list-style:none;background:0;
 		li{ display:inline-block; font: 400 1.05rem 'Roboto Condensed', Arial; text-transform: uppercase;
 			.featured a {/*background:#50c5ab;*/color:$color-prim; 
 				&:hover{background:$color-ver; color:$color-bla;
@@ -198,6 +201,52 @@
     }
 }
 
+
+/* Modal Citas */
+.modal-contenido{
+    background: rgba(15, 72, 87, 0.7) none repeat scroll 0 0;
+    border-radius: 15px;
+    height: 350px;
+    margin: 100px auto;
+    padding: 10px 20px;
+    position: relative;
+    width: 410px;
+    z-index: 5000;
+    a { 
+	    background: rgba(255, 255, 255, 0.3);
+	    border-radius: 50%;
+	    color: #333;
+	    display: block;
+	    float: right;
+	    text-decoration: none;
+	    padding: 3px 8px;
+	    :hover { 
+		    background: rgba(255, 255, 255, 0.9);
+		}
+  	}
+	 .citas form {
+		background: none;
+		box-shadow: none;
+	}
+}
+
+.modal {
+  background-color: rgba(0,0,0,.8);
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  opacity:0;
+  pointer-events:none;
+  transition: all 1s;
+  z-index: 5000;
+}
+
+#miModal:target {
+  opacity:1;
+  pointer-events:auto;
+}
 
 
 
