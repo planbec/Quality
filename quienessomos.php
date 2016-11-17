@@ -93,7 +93,7 @@
 
 <figure class="foto"><img src="img/foto_quienes04.jpg"></figure>
 
-<p><strong>El centro cuenta con seis cub&iacute;culos  dotados de:</strong></p>
+<p><strong>El centro cuenta con ocho cub&iacute;culos  dotados de:</strong></p>
 <ul>
 	<li>Sillones reclinables  para tratamiento</li>
 	<li>Porta suero</li>
@@ -108,7 +108,7 @@
 	<li>&Oacute;rden con la medicaci&oacute;n postquimioterapia que incluye desde cuidado personal hasta el cumplimiento estricto de las indicaciones m&eacute;dicas</li>
 </ul>
 
-<p>Ponemos a disposici&oacute;n de los pacientes oncol&oacute;gicos de las  3 ramas de las fuerzas armadas (activos, pasivos y dependientes):</p>
+<p>Ponemos a disposici&oacute;n de los pacientes oncol&oacute;gicos:</p>
 
 <p><strong>Atenci&oacute;n integral especializada para el tratamiento m&eacute;dico de las enfermedades neopl&aacute;sicas.</strong></p>
 <ul>

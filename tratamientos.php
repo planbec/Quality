@@ -38,11 +38,11 @@
 					</article><!-- /.portafolio-resumen -->
 
 					<article class="portafolio-resumen col3">
-						<a href="#"><img src="img/pg_cirugia.jpg" alt="Cirugías" /></a>
+						<a href="cirugia.php"><img src="img/pg_cirugia.jpg" alt="Cirugías" /></a>
 						<header>
-							<h2><a href="#"><span>Cirug&iacute;as</span></a></h2>
+							<h2><a href="cirugia.php"><span>Cirug&iacute;as</span></a></h2>
 						</header>
-						<a href="#" class="btn">Ver m&aacute;s detalles</a>
+						<a href="cirugia.php" class="btn">Ver m&aacute;s detalles</a>
 					</article><!-- /.portafolio-resumen -->
 
 
