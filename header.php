@@ -36,9 +36,10 @@
 
 				<ul>
 					<li><a href="quienessomos.php" <?php if($uri == 'quienessomos') echo 'class="active"'?> >Quienes somos</a></li>
-					<li><a href="staff.php" <?php if($uri == 'staff' || in_array($uri,$staff) ) echo 'class="active"'?> >Staff M&eacute;dico</a></li>
-					<li><a href="tratamientos.php" <?php if($uri == 'tratamientos' || in_array($uri,$tratamientos) ) echo 'class="active"'?>  >Tratamientos para el C&aacute;ncer</a></li>
-					<li><a href="convenios.php" <?php if($uri == 'convenios') echo 'class="active"'?> >Convenios con Asegurados</a></li>
+					<li><a href="staff.php" <?php if($uri == 'staff' || in_array($uri,$staff) ) echo 'class="active"'?> >Staff</a></li>
+					<li><a href="tratamientos.php" <?php if($uri == 'tratamientos' || in_array($uri,$tratamientos) ) echo 'class="active"'?>  >Concepto de tratamientos para el C&aacute;ncer</a></li>
+					<li><a href="servicios.php" <?php if($uri == 'servicios' || in_array($uri,$servicios) ) echo 'class="active"'?> >Cartera de Servicios</a></li>
+					<li><a href="convenios.php" <?php if($uri == 'convenios') echo 'class="active"'?> >Convenios</a></li>
 				</ul>
 			</nav>
 		</div>

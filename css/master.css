@@ -349,7 +349,7 @@ hr.center {
     background: 0; }
     #main-menu ul li {
       display: inline-block;
-      font: 400 1.05rem 'Roboto Condensed', Arial;
+      font: 400 1rem 'Roboto Condensed', Arial;
       text-transform: uppercase; }
       #main-menu ul li .featured a {
         /*background:#50c5ab;*/
@@ -360,7 +360,7 @@ hr.center {
     #main-menu ul li a {
       color: #0f4857;
       padding: .5em;
-      margin: 0 0.5rem;
+      margin: 0 0.4rem;
       background: transparent;
       display: block; }
       #main-menu ul li a:hover, #main-menu ul li a.active {
@@ -794,17 +794,17 @@ input[type="submit"], input[type="button"] {
       display: block;
       margin-top: 3rem; }
   .container.page-content a {
-    color: #009d3d;
+    color: #55abde;
     margin: 0;
     padding: 0;
-    text-decoration: none;
+    text-decoration: underline;
     text-transform: none; }
     .container.page-content a span {
       display: block;
       text-transform: uppercase;
       font-weight: 600; }
     .container.page-content a:hover {
-      color: #0f4857;
+      color: #009d3d;
       text-decoration: none; }
   .container.page-content i.fa {
     font-size: 3.5rem; }

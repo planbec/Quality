@@ -1,6 +1,7 @@
 <?php
 $tratamientos = array('quimioterapia','radioterapia');
 $staff = array('mauricio-riofrio','carlos-freire','monica-jarrin','rene-alvarado','ericka-serrano');
+$servicios = array('oncologia','hematologia','otros-servicios');
 $uri =  $_SERVER['REQUEST_URI'];
 $parts = explode('/',$uri);
 $uri = end($parts);

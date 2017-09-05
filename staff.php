@@ -11,7 +11,7 @@
 			
 			<header class="page-header">
 				<div class="container">		
-					<h1>Staff M&eacute;dico</h1>					
+					<h1>Staff</h1>					
 				</div>
 			</header><!-- /.page-header -->
 			

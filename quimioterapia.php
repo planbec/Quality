@@ -11,7 +11,7 @@
 			
 			<header class="page-header">
 				<div class="container">		
-					<h1>Tratamientos para el c&aacute;ncer</h1>					
+					<h1>Concepto de tratamientos para el C&aacute;ncer</h1>					
 				</div>
 			</header><!-- /.page-header -->
 			

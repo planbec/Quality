@@ -104,13 +104,13 @@
 /* Menu */
 #main-menu {display:table-cell; width:70%; text-align:right; vertical-align:top; line-height:1.3em;
 	ul {margin:1.5rem 0 0 0; padding:0;list-style:none;background:0;
-		li{ display:inline-block; font: 400 1.05rem 'Roboto Condensed', Arial; text-transform: uppercase;
+		li{ display:inline-block; font: 400 1rem 'Roboto Condensed', Arial; text-transform: uppercase;
 			.featured a {/*background:#50c5ab;*/color:$color-prim; 
 				&:hover{background:$color-ver; color:$color-bla;
 				}
 			}
 		}
-		li a { color:$color-prim;  padding:.5em; margin: 0 0.5rem; background:transparent; display:block;
+		li a { color:$color-prim;  padding:.5em; margin:0 0.4rem; background:transparent; display:block;
 			&:hover, &.active { /*background:#383636;*/ background:$color-ver; color:$color-bla; text-decoration:none;
 			}
 		}
@@ -341,9 +341,9 @@ input[type="submit"],input[type="button"]{background:#e99935;border:0;color:#fff
 		strong { display: block; margin-top:3rem; }
 	}
 	
-		a { color:$color-sec; margin: 0; padding: 0; text-decoration: none; text-transform: none;
+		a { color:$color-hed; margin: 0; padding: 0; text-decoration: underline; text-transform: none;
 		span { display: block; text-transform: uppercase; font-weight: 600;}
-		&:hover { color: $color-prim; text-decoration: none; }
+		&:hover { color: $color-sec; text-decoration: none; }
 	}
 	i.fa { font-size: 3.5rem; }
 	ul { margin-bottom: 3rem; margin: 0; 

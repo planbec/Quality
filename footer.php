@@ -41,7 +41,7 @@
 			
 			<!-- Copyright -->
 			<div class="copyright">
-				&copy; 2016 Quality of Care | Calidad de Vida  -  Todos los derechos reservados. 
+				&copy; 2017 Quality of Care | Calidad de Vida  -  Todos los derechos reservados. 
 			</div>
 
 			<div class="planb">
