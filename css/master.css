@@ -797,15 +797,14 @@ input[type="submit"], input[type="button"] {
     color: #55abde;
     margin: 0;
     padding: 0;
-    text-decoration: underline;
     text-transform: none; }
     .container.page-content a span {
       display: block;
-      text-transform: uppercase;
-      font-weight: 600; }
+      font-weight: 600;
+      text-transform: uppercase; }
     .container.page-content a:hover {
       color: #009d3d;
-      text-decoration: none; }
+      text-decoration: underline; }
   .container.page-content i.fa {
     font-size: 3.5rem; }
   .container.page-content ul {
@@ -815,6 +814,7 @@ input[type="submit"], input[type="button"] {
       list-style: circle;
       list-style-position: outside;
       font-size: 1.1rem;
+      line-height: 1.7rem;
       padding: 0.5rem 0; }
   .container.page-content .especialidades {
     width: 60%;
@@ -859,8 +859,8 @@ input[type="submit"], input[type="button"] {
   text-align: center; }
 
 .container.page-content, .container.list-content {
-  margin-top: 2rem;
-  padding: 0 1rem 2em;
+  margin-top: 3rem;
+  padding: 1rem 1rem 2em;
   overflow: hidden; }
 
 .container.page-content h1 {

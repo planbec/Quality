@@ -21,6 +21,9 @@
 
 				<section>
 					<div class="text">
+
+<figure class="foto"><img src="img/pg_oncologia.jpg"></figure>
+
 <h3>&Aacute;reas</h3>
 <p>Consulta Externa y Hospital del d&iacute;a.</p>
 

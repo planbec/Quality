@@ -21,7 +21,7 @@
 				<div class="portafolio-list cols">
 					
 					<article class="portafolio-resumen col3">
-						<a href="oncologia.php"><img src="img/pg_quimioterapia.jpg" alt="Quimioterapia" /></a>
+						<a href="oncologia.php"><img src="img/pg_oncologia.jpg" alt="Oncología" /></a>
 						<header>
 							<h2><a href="oncologia.php"><span>Oncolog&iacute;a</span></a></h2>
 						</header>
@@ -30,7 +30,7 @@
 					
 					
 					<article class="portafolio-resumen col3">
-						<a href="hematologia.php"><img src="img/pg_radioterapia.jpg" alt="Radioterapia" /></a>
+						<a href="hematologia.php"><img src="img/pg_hematologia.jpg" alt="Hematología" /></a>
 						<header>
 							<h2><a href="hematologia.php"><span>Hematolog&iacute;a</span></a></h2>
 						</header>
@@ -38,7 +38,7 @@
 					</article><!-- /.portafolio-resumen -->
 
 					<article class="portafolio-resumen col3">
-						<a href="otros-servicios.php"><img src="img/pg_cirugia.jpg" alt="Cirugías" /></a>
+						<a href="otros-servicios.php"><img src="img/pg_servicios.jpg" alt="Servicios" /></a>
 						<header>
 							<h2><a href="otros-servicios.php"><span>Servicios</span></a></h2>
 						</header>

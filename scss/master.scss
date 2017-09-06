@@ -341,13 +341,13 @@ input[type="submit"],input[type="button"]{background:#e99935;border:0;color:#fff
 		strong { display: block; margin-top:3rem; }
 	}
 	
-		a { color:$color-hed; margin: 0; padding: 0; text-decoration: underline; text-transform: none;
-		span { display: block; text-transform: uppercase; font-weight: 600;}
-		&:hover { color: $color-sec; text-decoration: none; }
+		a { color:$color-hed; margin: 0; padding: 0; text-transform: none;
+		span { display: block; font-weight: 600; text-transform: uppercase;}
+		&:hover { color: $color-sec; text-decoration: underline; }
 	}
 	i.fa { font-size: 3.5rem; }
 	ul { margin-bottom: 3rem; margin: 0; 
-		li { list-style: circle; list-style-position: outside; font-size: 1.1rem; padding: 0.5rem 0;}
+		li { list-style: circle; list-style-position: outside; font-size: 1.1rem; line-height:1.7rem; padding: 0.5rem 0;}
 	}
 
 
@@ -369,7 +369,7 @@ input[type="submit"],input[type="button"]{background:#e99935;border:0;color:#fff
 
 .portafolio-resumen { padding-bottom: 2.5rem; text-align: center;}
 
-.container.page-content,.container.list-content{ margin-top:2rem; padding: 0 1rem 2em; overflow: hidden; }
+.container.page-content,.container.list-content{ margin-top:3rem; padding: 1rem 1rem 2em; overflow: hidden; }
 .container.page-content {
 	h1 { color: $color-prim; text-shadow: 1px 1px 2px #FFF; }
 }
