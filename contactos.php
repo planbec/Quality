@@ -1,34 +1,5 @@
 ﻿<?php include ("code-head.php"); ?>
 
-<style>
-.errores {
-	background:red;
-	display:none;
-	position:absolute;
-	padding:10px;
-	margin-top:-80px;
-	margin-left:340px;
-	}
-</style>
-
-<script>
-	var expr = /^[a-zA-Z0-9_\.\-]+@[a-zA-Z0-9\-]+\.[a-zA-Z0-9\-\.]+$/;
-
-	$(document).ready(function(){
-		$("#Enviar").click(function(){
-			var nombre = $("#nombre").val();
-			var correo = $("#email").val();
-			var correo = $("#telefono").val();
-
-			if(nombre == ""){
-				$("#mensaje1").fadeIn();
-				return false;
-			}
-		});
-	}):
-</script>
-
-
 <body>
 <?php include("header.php"); ?>
 	
@@ -61,7 +32,7 @@
 				<form action="enviar.php" method="post">
 					
 					<label for="nombre">Nombre:</label>
-					<input type="text" id="nombre" name="nombre" required /><div id="mensaje1" class="errores">Escribe un nombre</div>
+					<input type="text" id="nombre" name="nombre" required />
 					
 					<label for="email">Email:</label>
 					<input type="text" id="email" name="email" required />
@@ -72,7 +43,7 @@
 					<label for="mensaje">Mensaje:</label>
 					<textarea id="mensaje" name="mensaje" rows="8" required ></textarea>
 					
-					<input type="submit" id="enviar" value="Enviar mensaje" class="btn" />
+					<input type="submit" value="Enviar mensaje" class="btn" />
 				
 				</form>
 				</div>
