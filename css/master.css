@@ -653,7 +653,7 @@ hr.center {
   width: 800px !important;
   margin-right: 0; }
 
-input, textarea {
+input, textarea, select {
   background: #fff;
   border: .0625rem solid #d9d9e2;
   margin: 0.5rem 0 !important;
